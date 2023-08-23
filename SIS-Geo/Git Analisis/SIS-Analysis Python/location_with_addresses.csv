@@ -1,0 +1,532 @@
+Address,Google Maps URL,latitude,longitude,NAddress
+"AVENIDA 5 DE MAYO ESQ 16 OTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0477335,-98.189623",19.068368,-98.3037296,"Avenida 16 Poniente, San Pedro Cholula, Puebla, 72860, México"
+"BOULEVARD NORTE Y AVENIDA DE LA PEDRERA, Pue.","https://www.google.com/maps/search/?api=1&query=19.0725999,-98.20494599999999",19.0725999,-98.204946,"Coppel, Boulevard Norte, Municipio de Puebla, Puebla, 72050, México"
+"EMILIANO ZAPATA -ZARAGOZA, Pue.","https://www.google.com/maps/search/?api=1&query=22.0832515,-100.7271141",19.0903587,-98.1379898,"Calle Emiliano Zapata, Municipio de Puebla, Puebla, 72228, México"
+"15 NORTE ANDADOR 2 EDIFICIO 1015 ESQ 12 OTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",18.4724576,-97.3791898,"Calle 15 Norte, Tehuacán, Puebla, 75740, México"
+"CALLE MELCHOR OCAMPO NUMERO 307, Pue.","https://www.google.com/maps/search/?api=1&query=17.0566629,-96.7226244",41.38596499,2.144074709,"253, Carrer de Rocafort, la Nova Esquerra de l'Eixample, Eixample, el Fort Pienc, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España"
+"50 PONIENTE 2509 ESQ 27 NORTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0717459,-98.2008799,"Avenida 50 Poniente, Municipio de Puebla, Puebla, 72050, México"
+"50 PONIENTE 914 - 9 Y 11 NORTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0672598,-98.1944094",41.38596499,2.144074709,"253, Carrer de Rocafort, la Nova Esquerra de l'Eixample, Eixample, el Fort Pienc, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España"
+"CALLE 3 DE JUNIO NUM 24 ESQ BENITO JUAREZ, Pue.","https://www.google.com/maps/search/?api=1&query=19.1024424,-98.20284439999999",19.1021876,-98.1323608,"Calle 3 de Junio, Municipio de Puebla, Puebla, 72228, México"
+"CALLE 12 PTE 505 LETRA S ESQ 5 NTE CHOLULA DE RIVADAVIA, Pue.","https://www.google.com/maps/search/?api=1&query=19.0778224,-98.3023096",41.38596499,2.144074709,"253, Carrer de Rocafort, la Nova Esquerra de l'Eixample, Eixample, el Fort Pienc, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España"
+"PRIVADA 12 A SUR 9717 97 OTE, Pue.","https://www.google.com/maps/search/?api=1&query=18.99488,-98.21359989999999",41.38596499,2.144074709,"253, Carrer de Rocafort, la Nova Esquerra de l'Eixample, Eixample, el Fort Pienc, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España"
+"VIOLETAS N° 5823 ESQ 16 DE SEPTIEMBRE, Pue.","https://www.google.com/maps/search/?api=1&query=19.4323618,-99.1374824",19.0170971,-98.2140609,"Pemex, Avenida 16 de Septiembre, Municipio de Puebla, Puebla, 72240, México"
+"MANUEL AVILA CAMACHO ESQ PRIVADA 6 DE ENERO, Pue.","https://www.google.com/maps/search/?api=1&query=19.1453451,-98.2830994",19.2907725,-98.4441737,"Calle Ferrocarril, Texmelucan, San Martín Texmelucan, Puebla, 74000, México"
+"23 DE MAYO ESQUINA 28 DE OCTUBRE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.1126245,-98.2015899,"Calle Barranca del Fresno, Municipio de Puebla, Puebla, 72014, México"
+"AVENIDA ALVARO OBREGON N.18, Pue.","https://www.google.com/maps/search/?api=1&query=18.9133595,-97.8205809",18.6818911,-97.6477269,"Privada Álvaro Obregón, Tlacotepec de Benito Juárez, Puebla, México"
+"CALLE PROGRESO 22 - FCO VILLA Y CONSTITUCION, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0941529,-98.2992665,"Privada Benito Juárez, San Pedro Cholula, Puebla, 72770, México"
+"CALLE IGNACIO ZARAGOZA Y GUADALUPE VICTORIA, Pue.","https://www.google.com/maps/search/?api=1&query=19.287238,-97.34355389999999",19.1122511,-98.2121326,"Calle Ignacio Zaragoza, Municipio de Puebla, Puebla, 72014, México"
+"3 ERA PRIVADA DE OCOTAL NO.8, Pue.","https://www.google.com/maps/search/?api=1&query=13.6289038,-86.48449140000001",19.040723,-98.1728076,"Calle 32 Norte, Municipio de Puebla, Puebla, 72373, México"
+"PROL DELA 16 DE SEPT Y 3 SUR, Pue.","https://www.google.com/maps/search/?api=1&query=18.9863381,-98.23435909999999",18.9664769,-98.2409616,"Pemex, Avenida 3 Sur, Municipio de Puebla, Puebla, 72490, México"
+"CALLE DIAGONAL GUADALUPE Y CALLE BENITO JUAREZ, Pue.","https://www.google.com/maps/search/?api=1&query=19.0414398,-98.2062727",19.0958465,-98.1824788,"Avenida Benito Juárez, Municipio de Puebla, Puebla, 72015, México"
+"117 PTE. CALLE BENITO JUÁREZ Y PINOS, Pue.","https://www.google.com/maps/search/?api=1&query=37.2514515,-3.7496132",18.990837,-98.2454957,"Avenida 117 Poniente, Municipio de Puebla, Puebla, 72490, México"
+"CARRETERA VALSEQUILLO, Pue.","https://www.google.com/maps/search/?api=1&query=18.9874889,-98.1999697",18.9874889,-98.1999697,"Otis Gym, Boulevard Valsequillo, Universitaria, Municipio de Puebla, Puebla, 72592, México"
+"CARRETERA FEDERAL A TEHUACAN, Pue.","https://www.google.com/maps/search/?api=1&query=19.0565968,-98.1575151",19.04495595,-98.12921375,"Calle Huitzilihuitl, Casa Blanca, Amozoc, Puebla, 72310, México"
+"CARRETERA INTERSERRANA ZACATLÁN-AHUAcatlán, Pue.","https://www.google.com/maps/search/?api=1&query=20.0230506,-97.85244759999999",19.97817775,-97.9665473,"Calle El Mirador, Atzingo (La Cumbre), Zacatlán, Puebla, 73313, México"
+"JUAN DE GRIJALVA #8112 ESQUINA RIO PAPAGAYO, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",18.9948308,-98.1900857,"3005, Calle Fray Juan de Grijalva, Tres Cruces, Municipio de Puebla, Puebla, 72595, México"
+"AVENIDA INSURGENTES NÚMERO 1 DE LA JUNTA AUXILIAR DE ACTIPAN DE MORELOS, Pue.","https://www.google.com/maps/search/?api=1&query=18.9568304,-97.80014059999999",18.9568304,-97.8001406,"Calle Ayuntamiento, Actipan de Morelos (Santa María Actipan), Acatzingo, Puebla, 75150, México"
+"CALLE PINO SUAREZ ESQ CALLE PRIVAVA SIN NOM BRE, Pue.","https://www.google.com/maps/search/?api=1&query=19.7469937,-98.7432943",19.1199769,-98.3719226,"Santa María Zacatepec, Juan C. Bonilla, Puebla, México"
+"PRIV 141 B PTE #1508 ESQ 15 SUR, Pue.",,18.974043,-98.2633727,"Calle A 141 Poniente, San Isidro Castillotla 2ª, 3ª, Y 4ª, Sección, Municipio de Puebla, Puebla, 72940, México"
+"CAMINO A EX HACIENDA DE CUAPILCO, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.1635961,-98.4056527,"Avenida Miguel Jerónimo Martínez, Huejotzingo, Puebla, 74160, México"
+"AVENIDA REFORMA NUM 530, Pue.","https://www.google.com/maps/search/?api=1&query=19.046591,-98.2023437",19.046591,-98.2023437,"Centro Histórico de Puebla, Ciclovía 9 Sur, Municipio de Puebla, Puebla, 72240, México"
+"CALLE 38 NORTE NUM 1016 ESQ 10 ORIENTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0428773,-98.1680978",,,N/A
+"SAN FRANCISCO ESQ ALCATRAZ, Pue.","https://www.google.com/maps/search/?api=1&query=37.8269775,-122.4229555",37.8269775,-122.422955,"Alcatraz Island, West Road, San Francisco, CAL Fire Northern Region, California, 94123, United States"
+"CALLE E. ZAPTA NTE Y CALLE RESURRRECCION, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"PINO SUARES LOTE 2 MZ 10 ENTRE PRESA Y LUZ, Pue.","https://www.google.com/maps/search/?api=1&query=18.3144854,-100.2853094",18.3144854,-100.285309,"Calle Ignacio Manuel Altamirano, Arcelia, Guerrero, México"
+"28 ORIENTE 1806 ESQ ENTRE 26 ORIENTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"27 PTE #102 AC ESQUINA 16 DE SEPTIEMBRE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"4 NTE NUM 220, Pue.","https://www.google.com/maps/search/?api=1&query=41.8488331,-3.1591402",41.8488331,-3.15914,"Calle Norte, Hontoria del Pinar, Burgos, Castilla y León, 09660, España"
+"123 PTE ESQ 16 SEP, Pue.","https://www.google.com/maps/search/?api=1&query=19.0414398,-98.2062727",19.0414398,-98.206272,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CALLE JOSE MARIA MORELOS, Pue.",,,,N/A
+"CALLE SANTA ELVIRA MAN 2 LOTE 1 ESQ CAMINO VIEJO A BALCONES, Pue.",,,,N/A
+"REFORMA ESQ 11 SUR, Pue.",,,,N/A
+"CALLE CASA BLANCA NUMERO 2114 Y AVENIDA DE LA JUVENTUD, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CARRETERA FEDERAL VIA XALAPA - 18.9730221,-97.7572696, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CALLE 2DA PRIV DE LA 32 NORTE 2615 ESQ PINO SUAREZ, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CALLE PRICIPAL DEL SALADO, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CARRETERA IZUCAR-ATLIXCO, Pue.","https://www.google.com/maps/search/?api=1&query=18.8869208,-98.43826849999999",18.8869208,-98.4382685,"Atlixco, Puebla, 74290, México"
+"BOULEVARD NTE - 15 Y NACOZARI, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CATEMACO ESQUINA CANTERA - 19.039444, -98.129914, Pue.","https://www.google.com/maps/search/?api=1&query=18.4212621,-95.1129658",18.4212621,-95.112965,"Calle Venustiano Carranza, Catemaco, Veracruz, México"
+"CALLE NUM 7 NUM 21, Pue.","https://www.google.com/maps/search/?api=1&query=39.6043328,-0.5543366",39.6043328,-0.554336,"Rascanya, la Pobla de Vallbona, el Camp de Túria, València / Valencia, Comunitat Valenciana, 46185, España"
+"RAYON NUM 30 - ALDAMA, Pue.",,,,N/A
+"CALLE 7 NTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.1204551,-97.9625156",19.1204551,-97.962515,"Calle 7 Norte, Acajete, Puebla, México"
+"AVENIDA JACARANDAS 04 ESQ FERNANDO MONTES DE OCA, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"FELIPE CARRILO PUERTO NUM 12A ESQ 16 OTE Y AMERICA NORTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0447027,-98.1662928",19.0447027,-98.166292,"15, Calle Río de Janeiro, Municipio de Puebla, Puebla, 72373, México"
+"CALLE HIDALGO NUM 306 ESQ 3 SUR, Pue.",,,,N/A
+"PROL DE LA 2 SUR Y 113 OTE, Pue.","https://www.google.com/maps/search/?api=1&query=18.9820337,-97.4446771",18.9820337,-97.444677,"Privada de la 2 Sur, Ciudad Serdán, Chalchicomula de Sesma, Puebla, 75520, México"
+"CALLE CLAVELES NUM 39 ENTRE ESQ ORQUIDEAS, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"AVENIDA BENITO JUAREZ 132, ENTRE 5 Y 7 ORIENTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"14 PTE ESQ 3 NTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0683135,-98.3059347",19.0683135,-98.305934,"Cerrada de la 3 Norte, San Pedro Cholula, Puebla, 72860, México"
+"RETORNO DE LA 6 ORIENTE B 2055 CASA 1, Pue.",,,,N/A
+"PRIV. SAN ISIDRO NO. 22, Pue.","https://www.google.com/maps/search/?api=1&query=19.1088446,-98.2742159",19.1088446,-98.274215,"San Isidro, San Juan Cuautlancingo, Cuautlancingo, Puebla, 72700, México"
+"PLUTARCO ELIA CALLES #4112 ESQ BARRANCA SECA, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"12 PTE NUM 2111 - DIAG DEF DE LA REP, Pue.",,,,N/A
+"CALLE SAN JERONIMO SIN NUMERO-, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"COMPLEJO MEDICO GONZALO RIO ARRONTE DEL MUNICIPIO DE ATLIXCO, Pue.","https://www.google.com/maps/search/?api=1&query=18.9027054,-98.41599950000001",18.9027054,-98.4159995,"Carretera Puebla-Matamoros, San Agustín Ixtahuixtla, Atlixco, Puebla, 74200, México"
+"SAN JUAN DIEGO NUM 65 ESQ MARIA REYNA, Pue.",,,,N/A
+"FCO I MADERO 1912 ESQ 16 DE SEPTIEMBRE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"ERRO DE TRES CRUCES CUACNOPALAN, A INMEDIACIONES DE LA CARRETERA CUACNOPALAN A LIMONES, Pue.","https://www.google.com/maps/search/?api=1&query=-34.8949581,-56.16864039999999",-34.8949581,-56.1686404,"2252,2254, Doctor Salvador Ferrer Serra, Tres Cruces, Montevideo, 11200, Uruguay"
+"BLVR EMILIANO ZAPATA 405 B, Pue.","https://www.google.com/maps/search/?api=1&query=18.288027,-98.59479499999999",18.288027,-98.594795,"Boulevard Emiliano Zapata, Chiautla, Puebla, México"
+"8 SUR 7514 ESQ. 75 B OTE Y AVENIDA 75 OTE, Pue.","https://www.google.com/maps/search/?api=1&query=18.4138676,-97.3690072",18.4138676,-97.369007,"Tehuacán, Puebla, 75790, México"
+"12 OTE, BOULEVARD 5 DE MAYO, Pue.","https://www.google.com/maps/search/?api=1&query=19.0454758,-98.19037449999999",19.0454758,-98.1903745,"Avenida 14 Oriente, El Alto, Municipio de Puebla, Puebla, 72290, México"
+"CAMINO A TEPIZILA, Pue.","https://www.google.com/maps/search/?api=1&query=19.9054729,-97.7882442",19.9054729,-97.788244,"Tepizila (Primera Sección), San Esteban Cuautempan, Cuautempan, Puebla, México"
+"DOMICILIO CONOCIDO, Pue.",,,,N/A
+"RETORNO TEJOCOTE EDIF B DEPTO 9 ESQ AVENIDA DEL ROBLE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0970232,-98.2155204",19.0970232,-98.21552,"Privada Roble, Fraccionamiento El Riego 2, Municipio de Puebla, Puebla, 72100, México"
+"CALLE BENEMERITO DE LAS AMERICAS - GUELATAO COLONIA BENITO, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"12 SUR 11305 -, Pue.",,,,N/A
+"JOSE GALEANA 116-DOMINGO ARENAS, Pue.","https://www.google.com/maps/search/?api=1&query=19.1384802,-98.46504189999999",19.1384802,-98.4650419,"Calle 3 de Mayo, Pipinahuác, Domingo Arenas, Puebla, México"
+"BOULEVARD FORJADORES Y CALLE CHOLULA Y CRUCE DE ZAVALETA, Pue.","https://www.google.com/maps/search/?api=1&query=19.0653099,-98.3017067",19.0653099,-98.301706,"Oxxo, Calle 12 Oriente, Pueblo Mágico, San Pedro, Cholula, San Pedro Cholula, Puebla, 72860, México"
+"NAGERA 204 ESQ, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CERRADA SANTA CECILIA DEPART 1 MOD 5 -ANDADOR SANTA ROSA Y 20 SUR, Pue.","https://www.google.com/maps/search/?api=1&query=19.454888,-99.2715788",19.454888,-99.271578,"Andador Santa Rosa, Naucalpan de Juárez, Estado de México, 53660, México"
+"BOULEVARD VALSEQUILLONUM 7716 -- MANUEL ALTAMIRANO, Pue.","https://www.google.com/maps/search/?api=1&query=18.9895779,-98.2006444",18.9895779,-98.200644,"Boulevard Valsequillo, Universitaria, Municipio de Puebla, Puebla, 72592, México"
+"CALLE ENCINO 348 - 5 SUR, Pue.",,,,N/A
+"AVENIDA CONSTITUYENTES - ARTICULO 21, Pue.","https://www.google.com/maps/search/?api=1&query=20.4036729,-99.9866678",20.4036729,-99.986667,"Avenida Constituyentes, San Juan del Río, Querétaro, 76803, México"
+"CALLE 16 DE SEP 12102 DEP 101 ENTRE LA 121 PTE Y LA 123 OTE, Pue.","https://www.google.com/maps/search/?api=1&query=18.9808179,-98.2377381",18.9808179,-98.237738,"Calle 121 Oriente, Municipio de Puebla, Puebla, 72490, México"
+"ANDADOR EJE 11 NORTE 10008, Pue.","https://www.google.com/maps/search/?api=1&query=19.085695,-98.1848332",19.085695,-98.184833,"CLUB DE NUTRICION, Andador Eje 11 Norte, Municipio de Puebla, Puebla, 72015, México"
+"RIO METLAPANAPA ESQ REVOLUCIÒN PTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0689237,-98.2677318",19.0689237,-98.267731,"Avenida Revolución Poniente, San Pedro Cholula, Puebla, 72124, México"
+"PRIVADA 11 NTE 7 - 13 Y 11 NORTE, Pue.","https://www.google.com/maps/search/?api=1&query=18.5518138,-97.4821302",18.5518138,-97.48213,"Calle Pípila, Magdalena Cuayucatepec, Tehuacán, Puebla, México"
+"CALLE ZARAGOZA NUMERO 4-PRIV. DEL FRESNO Y PRIVADA ESFUERZO, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CALLE NIÑO PERDIDO Y TEPEYAC, SAN MARTES FABRICA FANI, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"20 DE NOVIENBRE Y LAUELES, Pue.","https://www.google.com/maps/search/?api=1&query=19.2909655,-98.4365947",19.2909655,-98.436594,"Privada Prolongación 20 de Novienbre, Texmelucan, San Martín Texmelucan, Puebla, 74000, México"
+"CALLE TROJE NUM- 11-JAGUEY Y GRANERO, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"AVENIDA HIDALGO S-N, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CARRETERA ESTATAL TEHUACAN-TEOTITLAN EN LA CURVA DE GARIBALDI, Pue.","https://www.google.com/maps/search/?api=1&query=18.3756716,-97.2935051",18.3756716,-97.293505,"Calle Nicolás Bravo Norte, Altepexi, Puebla, 75910, México"
+"117ORIENTE 1405 - 14 SUR, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CALLE 16 DE SEPTIEMBRE - DR GONZALO BAUTISTA, Pue.",,,,N/A
+"26 OTE 2601 ESQUINA 26 NTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"PASEO CAROLINA ESQ OLMOS, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"BVD ATLIXCO Y CIRCUITO INTERIOR DE LAS ANIMAS, Pue.","https://www.google.com/maps/search/?api=1&query=18.9131227,-98.4293891",18.9131227,-98.429389,"Calle Río Necaxa, Atlixco, Puebla, 74260, México"
+"CALLE LIMONES NO., Pue.","https://www.google.com/maps/search/?api=1&query=28.8618387,-13.8316642",28.8618387,-13.831664,"David Roca, Calle Limones, Playa Blanca, Yaiza, Las Palmas, Canarias, 35580, España"
+"AVENIDA MADRID N. 109 ESQ CON LA ROTONDA, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"USUARIA: OFELIA MONTALVO MONTALVO EDAD: 33 AÑOS FECHA DE NACIMIENTO: 3 ABRIL DE 1988 OCUPACIÓN: AMA DE CASA ORIGINARIA DE CHICHICAPA, AJALPAN, PUEBLA NÚMERO TELEFONICO: 2215279610 HIJOS: SOLO LA MENOR DE 12 AÑOS. NOMBRE DEL PR: AARON MARTINEZ LIRA PARENTESCO: PAREJA DESDE HACE UN AÑO APROXIMADAMENTE DE LA C. OFELIA. EDAD: 39 AÑOS FECHA DE NACIMIENTO: 27 DIC 1981 OCUPACIÓN: TRABAJA VENDIENDO ELOTES EN LA CENTRAL DE ABASTOS ORIGINARIO DE TEPETLAMPA, AJALPAN, PUEBLA. FACTORES DE RIESGO: CONSUME ALCOHOL. MENOR DE EDAD VÍCTIMA DE VIOLACIÓN NOMBRE: MAGALI PANTALEON MONTALVO DE 12 AÑOS DE EDAD CON FECHA DE NACIMIENTO 09 DE DICIMBRE DEL 2008 TEL 2226807570 DESCRIPCIÓN DEL SUCESO: AL LLEGAR AL LUGAR PRIMER RESPONDIENTE OFICIAL DAVID RAMIREZ TEMOALZA MAS 1 EN LA UNIDAD VP 125 NOS ENTREVISTAMOS CON LA MADRE DE LA MENOR MISMA QUE REFIERE QUE EL DIA DE HOY MANDA A SU HIJA A PONER MERCANCIA EN LA TIENDA Y TIENEN UNA DISCUSIÓN PORQUE LA MENOR NO QUIERE HACERLO, AL PREGUNTARLE QUE ES LO QUE LE PASA Y PORQUE EN ÚLTIMOS DÍAS LE PONE CARAS Y ESTA MOLESTA CON ELLA, LE DICE QUE LE TENGA CONFIANZA Y LE DIGA A LO QUE LA MENOR LE RESPONDE QUE SU PAPÁ AARON LA VIOLABA DESDE HACE VARIOS MESES USUARIA AL ESCUCHAR ESTO LE RECLAMA AL PR CON ÉL QUE TIENE UN AÑO VIVIENDO MISMO QUE LE DICE QUE NO ERA CIERTO QUE SOLO LA HABÍA TOCADO PERO PORQUE LA MENOR SE LE INSUNUABA, AL DISCUTIR LA SITUACIÓN, ÉL LE DICE QUE SE VA A ENTREGAR PERO HASTA EL DÍA DE MAÑANA, SE SALE PONE CANDADO Y DEJA ENCERRADAS EN EL DOMICILIO DONDE RENTAN A USUARIA Y A LA MENOR, LOGRAN SALIR LA VENTANA LO ALCANZAN Y SE SUBEN AL CARRO DICIENDOLE QUE EN ESE MOMENTO FUERAN A DENUNCIAR, PR LES DICE: ""VAMOS A MATARNOS"" LAS ANDUVO PASEANDO EN EL VEHÍCULO SE ESTACIONO Y SE BAJO EN 3 NORTE Y 10 DE MAYO SAN JOSÉ LOS CERRITOS, DICIENDO QUE IBA A VER A UN AMIGO, SE LLEVO LAS LLAVES, Y USUARIA LO QUISO ALCANZAR PERO SE DIO A LA FUGA LO QUE REGRESA AL VEHÍCULO DONDE SE HABIA QUEDADO SOLA LA MENOR, POSTERIORMENTE LO VIO PASAR EN UNA CAMIONETA, MARCANDO AL 9-1-1 Y SOLICTANDO APOYO DE LA GRUA PARA TRASLADAR EL VEHÍCULO A SU DOMICILIO DONDE RENTAN EN AQUILES SERDÁN NÚM 1012 AMPLIACIÓN MOMOXPAN. CABE MENCIONAR QUE USUARIA REFIERE QUE PR TRAÍA $50, 000 EN SU PODER DE UN PRESTAMO. 02:12 HORAS EN EL DOMICILIO DE LA PETICIONARIA EN CUAUTLANCINGO DEJANDO EL VEHÍCULO DERBY COLOR GRIS CON METALICA NHN3975 PARA POSTERIORMENTE REALIZAR ACOMPAÑAMIENTO AL HOSPITAL DE LA MUJER. AL ARRIBAR AL DOMICILIO USUARIA NOS MUESTRA MENSAJE QUE ACABABA DE RECIBIR DE WHATS APP PARTE DEL PR DONDE LE DICE QUE DEJE LAS COSAS ASÍ, QUE NO SE META CON SU FAMILIA Y QUE EL NO LE HIZO NADA A LA MENOR, QUE ELLA LO PROVOCO. 02:58 HORAS ARRIBAMOS AL HOSPITAL DE LA MUJER PARA APLICACIÓN DE LA NORMA 046 A LA MENOR 03:14 HORAS PERSONAL MÉDICO DR JUAN JOSÉ TOXTLE GUEVARA APLICA PROTOCOLO. 05:00 HORAS TRABAJADORA SOCIAL OTORGA CARNET DE CITAS PARA SU SEGUIMIENTO 05:47 HORAS SE DEJA A USUARIA Y A LA MENOR EN SU DOMICILIO PARA QUE MAS TARDE APROXIMADAMENTE A LAS 09:00 ACUDAN A REALIZAR SU DENUNCIA A LA AGENCIA DEL MINISTERIO PÚBLICO DE CUAUTLANCINGO., Pue.","https://www.google.com/maps/search/?api=1&query=18.4004895,-97.047598",18.4004895,-97.04759,"Carretera Estatal Azumbilla - Tlacotepec de Díaz, Loma Bonita, Chichicapa, Ajalpan, Puebla, 75934, México"
+"LATERAL MEXICO PUEBLA , NUM 1103, Pue.","https://www.google.com/maps/search/?api=1&query=19.0414398,-98.2062727",19.0414398,-98.206272,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"DOMICILIO CONOCIDO DOS RIOS, Pue.","https://www.google.com/maps/search/?api=1&query=19.1840823,-97.07378709999999",19.1840823,-97.0737871,"Dos Ríos, Chichiquila, Puebla, México"
+"CALZADA ZARAGOZA ESQ IZTACCIHUATL, Pue.","https://www.google.com/maps/search/?api=1&query=19.07785,-98.16877020000001",19.07785,-98.1687702,"449, Calzada Ignacio Zaragoza, Municipio de Puebla, Puebla, 72210, México"
+"PRIVADA 11 SUR NUMERO 1212 ENTRE CAMINO VIEJO A SAN DIEGO Y LA 11 ORIENTE, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CALLE LAS CRUCES NUM 75, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"GRAL PROFIRIO DIAZ NUM 21 ESQ. AVENIDA CIUDAD MILITAR 24 DE MAYO, Pue.","https://www.google.com/maps/search/?api=1&query=19.0308908,-98.1763796",19.0308908,-98.176379,"Avenida Ciudad Militar, Municipio de Puebla, Puebla, 72380, México"
+"15 DE MAYO - MADERO, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"PRIVADA SANTA CLARA MZ 5 LT 3 ESQ SANTA CECILIA, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CALLE INDEPENDENCIA 235, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"CAMINO DE TERRACERÍA EL PARAJE DENOMINADO TLACO CRUZ, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"34 SUR - PRIVADA VENUS, Pue.","https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+"ALBA 14 SUR NUMERO 11, Pue.",,,,N/A
+CALLE TEHUACAN NO 345 ESQ DIAGONAL COANALA,"https://www.google.com/maps/search/?api=1&query=19.0553476,-98.2316591",19.0553476,-98.231659,"Solimex, Calle Tehuacán Sur, Municipio de Puebla, Puebla, 72140, México"
+113 PTE 1103 ESQ 11SUR,,,,N/A
+OSA MAYOR- BOULEVARD ATLIXCAYOTLY BOULEVARD DEL NIÑO POBLANO,"https://www.google.com/maps/search/?api=1&query=18.98376,-98.3166303",18.98376,-98.31663,"Boulevard Vía Atlixcáyotl, Santa Clara Ocoyucan, Ocoyucan, Puebla, 72850, México"
+AZTECA MANZANA 55 LOTE 1 ESQ NEZAHUALCOYOTL,"https://www.google.com/maps/search/?api=1&query=19.3994934,-98.9896643",19.3994934,-98.989664,"Calle Norteñas, Nezahualcóyotl, Estado de México, 57809, México"
+BOULEVARD CARMEN SERDAN ESQ 5 DE FEBRERO,"https://www.google.com/maps/search/?api=1&query=19.0843462,-98.205179",19.0843462,-98.20517,"Carretera Federal Puebla-Tlaxcala, Municipio de Puebla, Puebla, 72030, México"
+"CALLE RADIAL ZAPATA S-N - 19.03496, -98.27018",,,,N/A
+AVENIDA LAS TORRES 2 - AVENIDA EL PROGRESO,,,,N/A
+LAURELES S-N ESQ JIRASOLES,,,,N/A
+BOULEVARD 18 DE NOVIEMBRE - CALLE H,"https://www.google.com/maps/search/?api=1&query=19.0499926,-98.1541307",19.0499926,-98.15413,"Federal a Tehuacán, Municipio de Puebla, Puebla, 72320, México"
+ESMERALDA NUMERO 3 - TIERRA Y LIBERTAD,,,,N/A
+AVENIDA 5 DE MAYO - 30 OTE,"https://www.google.com/maps/search/?api=1&query=19.4344938,-99.1376552",19.4344938,-99.137655,"Taquería tlaquepaque, Calle 5 de Mayo, Centro Urbano, Cuauhtémoc, Ciudad de México, 06000, México"
+PRIVADA 143 B PONIENTE 2902 - 27 C SUR,,,,N/A
+"PRIV, HUTZOL ESQ CALLE MOCTEZUMA",,,,N/A
+HOSPITAL DE San José Chiapa,"https://www.google.com/maps/search/?api=1&query=19.2388424,-97.7677154",19.2388424,-97.767715,"Calle 8 Sur, San José Chiapa, Puebla, 75120, México"
+LA PURISIMA NUM. 1605 ENTRE 18 NTE Y VIA PUEBLA,"https://www.google.com/maps/search/?api=1&query=19.0450276,-98.18473619999999",19.0450276,-98.1847362,"Avenida 16 Oriente, El Alto, Municipio de Puebla, Puebla, 72280, México"
+MANZANARES NUM 8 - TOLOXA Y NIÑOS HEROES,,,,N/A
+11 SUR NUMERO 1102 Y 11 ORIENTE,,,,N/A
+"G-726, SAN BARTOLO SUR B 726, INFONAVIT SAN BARTOLO, 72495 PUEBLA, PUE., MÉXICO","https://www.google.com/maps/search/?api=1&query=18.9912727,-98.2430251",18.9912727,-98.243025,"Boulevard Periférico Ecológico, Municipio de Puebla, Puebla, 72490, México"
+HERMANOS SERDAN 1704 ESQ BOULEVARD CARMELITAS,"https://www.google.com/maps/search/?api=1&query=18.997638,-98.25139089999999",18.997638,-98.2513909,"Calle Hermanos Serdán, Municipio de Puebla, Puebla, 72480, México"
+30 NORTE Y BOULEVARD XONACA,"https://www.google.com/maps/search/?api=1&query=19.046445,-98.1749048",19.046445,-98.174904,"Papeleria Gracia, 227, Calle 30 Norte, Municipio de Puebla, Puebla, 72270, México"
+CARRETERA FEDERAL 150 TEHUACAN - PUEBLA CASETA DE COBRO -76,"https://www.google.com/maps/search/?api=1&query=18.8142635,-97.090908",18.8142635,-97.0909,"Carretera Federal Orizaba - Zongolica, Novillero Chico, Rafael Delgado, Veracruz, 94410, México"
+10 ORIENTE,,,,N/A
+CARRETERA FEDERAL AMOZOC -SAN JOSÉ CHIAPA KM 129,"https://www.google.com/maps/search/?api=1&query=19.2388424,-97.7677154",19.2388424,-97.767715,"Calle 8 Sur, San José Chiapa, Puebla, 75120, México"
+"HÉCTOR LEZAMA SURROCA #322, ENTRE LAS CALLES 3 Y 5 ORIENTE","https://www.google.com/maps/search/?api=1&query=18.4594934,-97.3842507",18.4594934,-97.38425,"Calle Héctor Lezama Surroca, Tehuacán, Puebla, 75700, México"
+8 OTE 2603 - 26 NTE,,,,N/A
+PRIVADA 4 OTE NUM 410,"https://www.google.com/maps/search/?api=1&query=19.0503949,-98.0920291",19.0503949,-98.092029,"Privada 4 Oriente, Casa Blanca, Amozoc, Puebla, 72990, México"
+CERRADA NIÑOS HEROES 5401 ESQ MORELOS,"https://www.google.com/maps/search/?api=1&query=18.6813049,-99.1013498",18.6813049,-99.101349,"Tlaltizapan, Tlaltizapán de Zapata, Morelos, México"
+CALLE 8 SUR ESQ 15 PTE,,,,N/A
+DE LA 16 DE SEPTIEMBRE NUM 8906 - 89 OTE,"https://www.google.com/maps/search/?api=1&query=18.9974928,-98.22439860000001",18.9974928,-98.2243986,"parada de autobus, Avenida 16 de Septiembre, Municipio de Puebla, Puebla, 72470, México"
+ANDADOR 14 A SUR 11106 DTO 3 ESQUINA 14 A SUR,"https://www.google.com/maps/search/?api=1&query=40.7595044,-73.9271644",40.7595044,-73.927164,"34-01, 31st Street, Queens, City of New York, New York, 11106, United States"
+PLAZA DE SAN DIEGUITO EDIF J1 DEPTO 6 ESQ 32 SUR,,,,N/A
+PRIVADA VENUSTIANO CARRANZA 265 ESQUINA PINO SUAREZ,"https://www.google.com/maps/search/?api=1&query=20.5219536,-100.8104216",20.5219536,-100.810421,"117, Calle Vicente Rivapalacios, Zona Centro, Celaya, Guanajuato, 38000, México"
+CALLE SAN MARCOS EDIFICIO 718 DEPTO A - SAN FELIPE Y SAN MATIAS,,,,N/A
+COMANDANCIA DE CHICHIQUILA,"https://www.google.com/maps/search/?api=1&query=19.1990849,-97.06754389999999",19.1990849,-97.0675439,"Esc. Telesecundaria, Avenida Ignacio Zaragoza, San José, Chichiquila, Puebla, México"
+11 SUR FRENTE AL NUMERAL 14709-MARGARITAS,,,,N/A
+19 SUR N1701,,,,N/A
+AVENIDA SAN FRANCISCO ESQUINA CON RIO CONCHOS,"https://www.google.com/maps/search/?api=1&query=29.54079238379509,-104.6035163142411",29.54079238,-104.6035163,"Municipio de Ojinaga, Chihuahua, México"
+C 5 DE MAYO 25 ESQ CALLE A TLAXCALA,"https://www.google.com/maps/search/?api=1&query=19.318154,-98.2374954",19.318154,-98.237495,"Esc. Prim. Educación y Patria, Avenida Miguel de Lardizábal y Uribe, Tlaxcala, Tlaxcala de Xicohténcatl, Municipio de Tlaxcala, Tlaxcala, 90000, México"
+135 PTE 1762 - 19 A SUR Y 19 SUR,"https://www.google.com/maps/search/?api=1&query=18.9834026,-98.2638309",18.9834026,-98.26383,"Calle Segunda de Anillo Periférico, San Isidro Castillotla 2ª, 3ª, Y 4ª, Sección, Municipio de Puebla, Puebla, 72830, México"
+PINOS GRANADA NUMERO 1 PRIVADA SAUSE- SOBRE ARENAL EN CHACHAPA-,"https://www.google.com/maps/search/?api=1&query=37.1774605,-3.5984368",37.1774605,-3.598436,"Calle Cárcel Baja, Sagrario, Centro - Sagrario, Centro, Granada, Comarca de la Vega de Granada, Granada, Andalucía, 18001, España"
+DE LA PEDRERA ENTRE BOULEVARD NORTE,,,,N/A
+114 PTE &,,,,N/A
+AVENIDA CAZADORES DE MORELIA Y CALZADA,"https://www.google.com/maps/search/?api=1&query=19.0581566,-98.1821858",19.0581566,-98.182185,"Avenida Cazadores de Morelia, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72280, México"
+CALLE ALATRISTE,"https://www.google.com/maps/search/?api=1&query=18.4294035,-97.4019953",18.4294035,-97.401995,"Calle Alatriste, Tehuacán, Puebla, 75857, México"
+ARTICULO 5 # 19 ESQ CONSTITUYENTE,,,,N/A
+CALLE OCTUBRE DE 1867 - AVENIDA BENEMERITO DE LAS AMERICAS,"https://www.google.com/maps/search/?api=1&query=19.0793601,-98.1225486",19.0793601,-98.122548,"Calle Benemérito de las Américas, Municipio de Puebla, Puebla, 72229, México"
+CORREDOR INDUSTRIAL JOSE MARIA MORELOS,,,,N/A
+PRIV ROSAS DEL TEPEYAC N 9 ESQ MIGUEL HIDALGO Y LIBERTAD,"https://www.google.com/maps/search/?api=1&query=19.4891628,-99.11621749999999",19.4891628,-99.1162175,"Universidad ICEL, Privada Quinta Allende, Colonia Tepetates, Gustavo A. Madero, Ciudad de México, 07010, México"
+CALLE 16 DE SEPTIEMBRE NUM 160 ENTRE 5 DE MAYO Y BENITO JUAREZ,,,,N/A
+DOMICILIO CONOCIDO,,,,N/A
+C. Zapotitlán ENTRE HUEJOTE,"https://www.google.com/maps/search/?api=1&query=18.9033324,-98.251109",18.9033324,-98.2511,"Calle Zapotitlán, Municipio de Puebla, Puebla, 72960, México"
+CALLE 2 DE ABRIL - COL. LOS MANANTIALES - TLAPEHUALA,"https://www.google.com/maps/search/?api=1&query=18.2400802,-100.532424",18.2400802,-100.53242,"Calle Río Balsas, Tlapehuala, Guerrero, México"
+FRAY JUAN DE GRIIJALVA 2809 ESQ. RIO PAPAGAYO,"https://www.google.com/maps/search/?api=1&query=18.9949294,-98.1918471",18.9949294,-98.191847,"Calle Fray Juan de Grijalva, Tres Cruces, Municipio de Puebla, Puebla, 72592, México"
+AVENIDA TEPEACA Y PRIVADA TALAXCALA,"https://www.google.com/maps/search/?api=1&query=19.0041106,-98.2253318",19.0041106,-98.225331,"Calle Tepeaca, Municipio de Puebla, Puebla, 72470, México"
+AUTOPISTA MEXICO PUEBLA KM 96+500,"https://www.google.com/maps/search/?api=1&query=19.0414398,-98.2062727",19.0414398,-98.206272,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+10 SUR NUM 6353 ESQ 63 Y 65 OTE,,,,N/A
+NO PROPORCIONA,,,,N/A
+AVENIDA INDEPENDENCIA 209,"https://www.google.com/maps/search/?api=1&query=-34.6170995,-58.3694456",-34.6170995,-58.369445,"203, Avenida Independencia, San Telmo, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1100AAC, Argentina"
+CAMINO DE ISURGENTES A ZACAPOAXTLA,"https://www.google.com/maps/search/?api=1&query=19.8735055,-97.5887976",19.8735055,-97.588797,"Calle 5 de Mayo Norte, Zacapoaxtla, Puebla, 73680, México"
+E.ZAPATA Y SEGUNDA PRIVADA EMILIANO ZAPATA,,,,N/A
+ITALIA N 9 ESQ SUIZA Y GLORIETA,"https://www.google.com/maps/search/?api=1&query=41.87194,12.56738",41.87194,12.5673,"Viale Palmiro Togliatti, Torre Spaccata, Don Bosco, Roma, Roma Capitale, Lazio, 00172, Italia"
+CALLE ZAFIRO 6515 -,"https://www.google.com/maps/search/?api=1&query=40.3474664,-3.6786061",40.3474664,-3.678606,"Calle del Zafiro, Butarque, Villaverde, Madrid, Comunidad de Madrid, 28041, España"
+VALLE DE SAN JOSE NUM 7009 ESQ OAXACA Y PUEBLA,"https://www.google.com/maps/search/?api=1&query=17.0731842,-96.7265889",17.0731842,-96.726588,"Farmacias Similares, Avenida Venus, Oaxaca de Juárez, Oaxaca, 68040, México"
+AUTOPISTA MEXICO- PUEBLA KM 108,"https://www.google.com/maps/search/?api=1&query=19.3347211,-98.5806193",19.3347211,-98.580619,"Autopista México - Puebla, Santa Rita Tlahuapan, Tlahuapan, Puebla, México"
+"AVENIDA HIDALGO ESQUINA CON CALLE EL PROGRESO,","https://www.google.com/maps/search/?api=1&query=13.6970425,-89.217027",13.6970425,-89.21702,"Calle El Progreso, Colonia Peralta, Colonia Flor Blanca, Distrito Municipal 2, San Salvador, Ayutuxtepeque, Departamento de San Salvador, 1103, El Salvador"
+104 B ORIENTE 4226 ESQ 46 NORTE,,,,N/A
+COLONIA TLAMOTOLO,,,,N/A
+31 PTE 1020 INTERIOR -4 LIBRAMIENTO SAN LORENZO TCNOLOGICO,"https://www.google.com/maps/search/?api=1&query=19.0366425,-98.2128",19.0366425,-98.212,"921, Avenida 29 Poniente, Municipio de Puebla, Puebla, 72009, México"
+HOSPITAL GENERAL DE CUACNOPALAN,"https://www.google.com/maps/search/?api=1&query=18.816823,-97.51070879999999",18.816823,-97.5107088,"Calle 2 Norte, Cuacnopalan, Palmar de Bravo, Puebla, México"
+REFORMA 118 -- 5 DE MAYO Y 3 NORTE,,,,N/A
+"19.093485,-98.2500150","https://www.google.com/maps/search/?api=1&query=19.0936133,-98.2499737",19.0936133,-98.249973,"Avenida Independencia, Sanctorum, Cuautlancingo, Puebla, 72730, México"
+MORELOS 5,"https://www.google.com/maps/search/?api=1&query=18.6813049,-99.1013498",18.6813049,-99.101349,"Tlaltizapan, Tlaltizapán de Zapata, Morelos, México"
+CALLE MIGUEL ALEMAN NUM 1512 - 15 Y 17 PTE,"https://www.google.com/maps/search/?api=1&query=27.4980339,-109.930482",27.4980339,-109.93048,"Wyndham Garden, Avenida Miguel Alemán, Ciudad Obregón, Cajeme, Sonora, 85120, México"
+CERRADA FLORENTINO MAYA EDF 32 DTO E ESQ PROLONGACION DE LA 24 SUR,"https://www.google.com/maps/search/?api=1&query=18.9917782,-98.1965591",18.9917782,-98.196559,"Cerrada Florentino Maya, Tres Cruces, Municipio de Puebla, Puebla, 72592, México"
+LIBRAMIENTO A LA ALTURA DE LOS VIVEROS,,,,N/A
+CAMPO DE FUTBOL LA LADRILLERA,,,,N/A
+EN EL CAÑO DE AGUA CASI ESQ LIBRAMIENTO SAN MARCOS,"https://www.google.com/maps/search/?api=1&query=18.4399276,-97.3907677",18.4399276,-97.390767,"Libramiento San Marcos, Tehuacán, Puebla, 75857, México"
+CAMPOS DE CULTIVO,,,,N/A
+"CARRIL DE LA TRANCA DE FIERRO CAMPO POTRERO II, DE LA JUNTA AUXILIAR ESCAPE DE LAGUNILLAS","https://www.google.com/maps/search/?api=1&query=18.4826102,-98.6603021",18.4826102,-98.660302,"Calle 20 de Noviembre, Escape de Lagunillas, Chietla, Puebla, México"
+"CAMINO AL RELLENO SANITARIO, FRACCIONAMIENTO. SAN DAMIÁN.",,,,N/A
+CARRETERA FEDERAL PUEBLA - TEHUACAN CON DIRECCIÓN A TECAMACHALCO,"https://www.google.com/maps/search/?api=1&query=18.8837342,-97.7371353",18.8837342,-97.737135,"Calle 15 Sur, Tecamachalco, Puebla, 75480, México"
+CARRETERA A TLALTEPEXI S-N,"https://www.google.com/maps/search/?api=1&query=17.89584,-98.40209999999999",17.89584,-98.4021,"Calle Hidalgo, Xixingo de los Reyes, Tulcingo, Puebla, México"
+PRIV ZARAGOZA # 5 Y 2DA PRIV DE ZARAGOZA,"https://www.google.com/maps/search/?api=1&query=41.6488226,-0.8890853",41.6488226,-0.889085,"Arte Tiless, Sl, 2, Calle Madre Sacramento, Centro, Zaragoza, Aragón, 50004, España"
+SAN DIEGO 29 ESQ EJIDO Y GRANADA,"https://www.google.com/maps/search/?api=1&query=32.715738,-117.1610838",32.715738,-117.161083,"1033, 4th Avenue, Core-Columbia, Banker's Hill, San Diego, San Diego County, CAL Fire Southern Region, California, 92101, United States"
+CALLE GALEANA ESQUINA PERIFERICO,,,,N/A
+CALLE PROFESOR APOLINAR,"https://www.google.com/maps/search/?api=1&query=19.4885144,-71.549603",19.4885144,-71.5496,"Partido, Dajabón, República Dominicana"
+9 NORTE Y OTE 24,,,,N/A
+FRANCISCO I MADERO 117,,,,N/A
+CALLE BUGANBILIAS # 10,"https://www.google.com/maps/search/?api=1&query=20.5239348,-102.3334589",20.5239348,-102.333458,"Ayotlán, Jalisco, 47930, México"
+CARRETERA A PAJUATA,,,,N/A
+VILLA CARDEL Y VILLA UNION,"https://www.google.com/maps/search/?api=1&query=19.0709423,-98.11876509999999",19.0709423,-98.1187651,"Calle Ajusco, Municipio de Puebla, Puebla, 72229, México"
+CALLE RAFAEL CORTES PONIENTE N0 8,,,,N/A
+COMICILIO CONOCIDO,,,,N/A
+"SAN ISIDRO MONTERROSAS, TERRENOS DE CULTIVO","https://www.google.com/maps/search/?api=1&query=18.8566665,-97.5752777",18.8566665,-97.575277,"Calle Nacional, San Isidro Monterrosas, Palmar de Bravo, Puebla, México"
+CALLE PRINCIPAL ESQ . CALLE SAN FRANCISCO,,,,N/A
+PASTOR ROAUIX ESQUINA VIAS,"https://www.google.com/maps/search/?api=1&query=25.7347459,-103.4417846",25.7347459,-103.441784,"Esmeralda, Gómez Palacio, Durango, México"
+129 B PTE NUM 2913-D ESQ 29 SUR,,,,N/A
+CALLE COLON ENTRE ALA TRISTE Y MORELOS,"https://www.google.com/maps/search/?api=1&query=18.6813049,-99.1013498",18.6813049,-99.101349,"Tlaltizapan, Tlaltizapán de Zapata, Morelos, México"
+"CALLE CALLE 9 NORTE Y 2 PTE # 6, INTERIOR 5, DEL BARRIO DE SAN JUAN CALVARIO","https://www.google.com/maps/search/?api=1&query=19.0672732,-98.31295039999999",19.0672732,-98.3129504,"casa, Avenida 6 Poniente, Pueblo Mágico, San Pedro, Cholula, San Pedro Cholula, Puebla, 72860, México"
+"CALLE NICOLÁS BRAVO NÚM. 51, SECC. 3RA.",,,,N/A
+CARRETERA INTERNACIONAL 190 S-N,"https://www.google.com/maps/search/?api=1&query=16.6344617,-96.0480541",16.6344617,-96.048054,"Carretera Federal Oaxaca - Tehuantepec, El Gramal, Nejapa de Madero, Oaxaca, México"
+SAN JOSE LOS PINOS,"https://www.google.com/maps/search/?api=1&query=19.0017004,-98.2380467",19.0017004,-98.238046,"Calle Aztecas, Municipio de Puebla, Puebla, 72470, México"
+PRIVADA DE LA 9 SUR ENTRE 3 Y 5 OTE,,,,N/A
+AVENIDAFERROCARRIL ESQ.PRIMERA PRIVADA BENITO JUAREZ,"https://www.google.com/maps/search/?api=1&query=19.3794059,-99.15914459999999",19.3794059,-99.1591446,"Avenida División del Norte, Colonia Letrán Valle, Benito Juárez, Ciudad de México, 03020, México"
+RIO APULCO NUM 502 ESQ. RIO PAPALOAPAN,,,,N/A
+TETELA # 11 ESQ HUACHINANGO,"https://www.google.com/maps/search/?api=1&query=20.1679874,-98.0550708",20.1679874,-98.05507,"Calle Tetela, Monterrey, Huauchinango, Puebla, 73160, México"
+"PONIENTE N. 216, COL. CENTRO",,,,N/A
+VALLE DE MEXICO ESQUINA ZACATECAS,"https://www.google.com/maps/search/?api=1&query=19.6666667,-99",19.6666667,-9.0,"تكانت, موريتانيا"
+DOMICILIO CONOCIDO,,,,N/A
+#¿NOMBRE?,,,,N/A
+COL MOISES SABA MANZANA 4 LOTE 10,,,,N/A
+COMUNIDAD DE RANCHO CHICO,,,,N/A
+MELCHOR OCAMPO ESQ AVENIDA HIDALGO,"https://www.google.com/maps/search/?api=1&query=19.7031072,-99.14349639999999",19.7031072,-99.1434964,"Calle Melchor Ocampo, Melchor Ocampo, Estado de México, 54880, México"
+"CAMINO DE TERRACERÍA CON DIRECCIÓN AL CANAL, A LA ALTURA DE LA CAPILLA DE SAN JUDAS TADEO","https://www.google.com/maps/search/?api=1&query=6.1378333,-75.2615163",6.1378333,-75.261516,"Calle 50A, El Santuario, Oriente, Antioquia, 054450, Colombia"
+SEMBRADIOS CERCA DE CARRETERA PRINCIPAL A NENETZINTLA,"https://www.google.com/maps/search/?api=1&query=19.0507769,-97.9658881",19.0507769,-97.965888,"Calle 5 Oriente, Santa María Nenetzintla, Acajete, Puebla, México"
+CARRETERA ESTATAL IZUCAR - ATENCINGO,"https://www.google.com/maps/search/?api=1&query=18.5128134,-98.6051389",18.5128134,-98.605138,"Calle Adalberto García, Atencingo, Chietla, Puebla, México"
+"PROLONGACIÓN DE LA CALLE 3 NORTE Y 8 PONIENTE, CAMINO RURAL A LA PISTA, COLONIA EL CARMEN","https://www.google.com/maps/search/?api=1&query=19.0482587,-98.19835379999999",19.0482587,-98.1983538,"Centro Histórico de Puebla, Ciclovía 9 Sur, Municipio de Puebla, Puebla, 72240, México"
+"A ORILLA DEL RIO, EL AREA DE FUTAS Y LEGUMBRES","https://www.google.com/maps/search/?api=1&query=-30.7915321,-64.3491202",-30.7915321,-64.34912,"A Orilla del Río, Ruta Provincial 17, Ongamira, Pedanía Manzanas, Departamento Ischilín, Córdoba, X5200, Argentina"
+CALLE 4TA. BERRIOZÁBAL,"https://www.google.com/maps/search/?api=1&query=16.8071913,-93.2747256",16.8071913,-93.274725,"Calle 4 Poniente Norte, Berriozábal, Chiapas, México"
+CARRETERA PUEBLA AZUMIATLA KM 7.5 ESQ 1ERA DE ENERO Y 11 SUR,"https://www.google.com/maps/search/?api=1&query=18.906219,-98.2472254",18.906219,-98.247225,"Camino Principal, Municipio de Puebla, Puebla, 72960, México"
+CALLE 12 DE DICIEMBRE Y 9 NORTE DE LA COMUNIDAD DE LA COMPAÑÍA DE JESÚS,"https://www.google.com/maps/search/?api=1&query=19.3733422,-99.287203",19.3733422,-99.2872,"12 de Diciembre, Colonia El Ébano, Cuajimalpa de Morelos, Santa Fe, Ciudad de México, 05219, México"
+ENTRADA DE RUBEN JARAMILLO,,,,N/A
+CARRETERA GRAJALES MÁXIMO SERDAN,,,,N/A
+11 NORTE 7202 ESQUINA 72 PTE,"https://www.google.com/maps/search/?api=1&query=19.0751496,-98.1901977",19.0751496,-98.190197,"Mobil, Calle 9 Norte, Municipio de Puebla, Puebla, 72015, México"
+"PASO DE CORTES KM 27, PARAJE OCOTLA, SANTIAGO XALIZINTLA","https://www.google.com/maps/search/?api=1&query=19.0804127,-98.5178931",19.0804127,-98.517893,"Calle 7 Poniente, Santiago Xalitzintla, San Nicolás de los Ranchos, Puebla, 74180, México"
+CALLE SUR 11 N° 22,"https://www.google.com/maps/search/?api=1&query=18.8524746,-97.05791610000001",18.8524746,-97.0579161,"Calle Oriente 1, San José, Ixtaczoquitlán, Veracruz, 94460, México"
+BOULEVARD XONACATEPEC 10817,"https://www.google.com/maps/search/?api=1&query=19.0745707,-98.11359519999999",19.0745707,-98.1135952,"Boulevard Xonacatepec, Municipio de Puebla, Puebla, 72229, México"
+EJE PONIENTE S-N,"https://www.google.com/maps/search/?api=1&query=19.4425636,-99.1480927",19.4425636,-99.148092,"Calle Pedro Moreno, Colonia Buenavista, Cuauhtémoc, Ciudad de México, 06350, México"
+ENTRADA A LA JUNTA AUXILIAR DE SANTA MARI IXTIYUCAN,"https://www.google.com/maps/search/?api=1&query=19.1846455,-97.81034989999999",19.1846455,-97.8103499,"Avenida 5 de Mayo, Santa María Ixtiyucan, Nopalucan, Puebla, 75000, México"
+BOULEVARD EMILIANO ZAPATA ESQ. CAMINO A LA BUAP,,,,N/A
+CARRETERA ESTATAL A VICENTE GUERRERO ENTRE RANCHO CABRAS Y RANCHO NUEVO,"https://www.google.com/maps/search/?api=1&query=23.7321074,-103.9832684",23.7321074,-103.983268,"Calle Aldama, Vicente Guerrero, Durango, México"
+RETORNO GARDENIAS EDIFICIO 83 2DA SECCION,,,,N/A
+KM 18.5625650 DE TULCINGO A IZUCAR DE MATAMOROS,"https://www.google.com/maps/search/?api=1&query=18.0458332,-98.4225",18.0458332,-98.422,"Tecomatlán - Tulcingo, Tulcingo de Valle, Tulcingo, Puebla, 29040, México"
+CALLE PRINCIPAL ZONA DE TOLERANCIA,,,,N/A
+SAN HIPÓLITO SOLTEPEC.,"https://www.google.com/maps/search/?api=1&query=19.1241887,-97.71723019999999",19.1241887,-97.7172302,"Avenida Álvaro Obregón, Villa Union, Soltepec, Puebla, 75140, México"
+"ANNIE J. CANOON 50 ESQ ADOLFO LO´PEZ MATEOS**19.030343, -98.318065**","https://www.google.com/maps/search/?api=1&query=19.0304497,-98.31800870000001",19.0304497,-98.3180087,"16, Calle Annie Jump Cannon, Tonantzintla (Santa María Tonantzintla), San Andrés Cholula, Puebla, 72840, México"
+AVENIDAPUEBLA Y CALLE EJIDO ENTRE LAZARO CARDENA,"https://www.google.com/maps/search/?api=1&query=17.9567646,-102.1943485",17.9567646,-102.194348,"El Caminero, Avenida Lázaro Cárdenas, Centro, Lázaro Cárdenas, Michoacán, 60950, México"
+ALLENDE S-N,,,,N/A
+PERIFERICO ESQUINA FORJADORES,,,,N/A
+CAMINO REAL JUNTO AL BASURERO MUNICIPAL,,,,N/A
+5 NORTE NUM 36,,,,N/A
+18 OTE Y 1 NORTE,,,,N/A
+PRIMERO DE MAYO CASI ESQ. CALLE 5 DE MAYO LOC. CALA NORTE,"https://www.google.com/maps/search/?api=1&query=18.5484909,-97.4938607",18.5484909,-97.49386,"Calle 5 de Mayo, Magdalena Cuayucatepec, Tehuacán, Puebla, México"
+11 SUR EN CON SENTIDO A SAN ANDRES AZUMIATLA,"https://www.google.com/maps/search/?api=1&query=18.9011404,-98.2543929",18.9011404,-98.254392,"Municipio de Puebla, Puebla, México"
+DOMICILIO CONOCIDO,,,,N/A
+CARRETERA A GALAXIA ESQ CARRETERA SANTA CRUZ,"https://www.google.com/maps/search/?api=1&query=-17.8145819,-63.1560853",-17.8145819,-63.156085,"Avenida San Aurelio, Cañada Pailita, Municipio Santa Cruz de la Sierra, Provincia Andrés Ibáñez, Santa Cruz, Bolivia"
+22 NORTE ENTRE 20 PONIENTE Y PORTES GIL,"https://www.google.com/maps/search/?api=1&query=18.4787044,-97.40790849999999",18.4787044,-97.4079085,"Avenida 20 Poniente, Tehuacán, Puebla, 75740, México"
+CARRETERA A XUCHAPA,"https://www.google.com/maps/search/?api=1&query=18.523952,-98.4593941",18.523952,-98.459394,"Santa María Xuchapa, Izúcar de Matamoros, Puebla, México"
+BOULEVARD CARMEN SERDAN SERDAN 2508 ESQ 25 NTE,,,,N/A
+AUTOPISTA TLAXCO TEJOCOTAL KM 67+900,"https://www.google.com/maps/search/?api=1&query=19.61766,-98.1174721",19.61766,-98.117472,"Tlaxco, Tlaxcala, México"
+AVENIDA MAGUEL HIDALGO NUMERO 712,,,,N/A
+CARRETERA ESTATAL IZUCAR ATENCINGO S-N,"https://www.google.com/maps/search/?api=1&query=18.5128134,-98.6051389",18.5128134,-98.605138,"Calle Adalberto García, Atencingo, Chietla, Puebla, México"
+CHAMIZAL S-N,"https://www.google.com/maps/search/?api=1&query=19.5464312,-99.1344573",19.5464312,-99.134457,"Avenida del Castillo, Colonia Cuautepec El Bajo, Gustavo A. Madero, Ciudad de México, 07170, México"
+CARRETERA FEDERAL SAN HIPOLITI XALAPA,"https://www.google.com/maps/search/?api=1&query=19.5437751,-96.91018059999999",19.5437751,-96.9101806,"Privada Gobernador Gonzalo Vázquez Vela, El Mirador, Xalapa, Veracruz, 91143, México"
+PLUTARCO ELIA CALLES #4112 ESQ BARRANCA SECA,,,,N/A
+"6 PONIENTE ENTRE LA 23 Y 25 NORTE, FALDAS DEL CERRO TECHACHALES",,,,N/A
+COMPLEJO MEDICO GONZALO RIO ARRONTE DEL MUNICIPIO DE ATLIXCO,"https://www.google.com/maps/search/?api=1&query=18.9027054,-98.41599950000001",18.9027054,-98.4159995,"Carretera Puebla-Matamoros, San Agustín Ixtahuixtla, Atlixco, Puebla, 74200, México"
+2 NORTE NUM 2332 Y 24 OTE,,,,N/A
+CALLE AMBROSIO SIN NÚMERO,"https://www.google.com/maps/search/?api=1&query=40.45738,-3.7067751",40.45738,-3.706775,"5, Calle de Ambrosio Vallejo, Berruguete, Tetuán, Madrid, Comunidad de Madrid, 28039, España"
+CALLE PINOS S-N,,,,N/A
+CARRETERA FEDERAL 160 S-N,"https://www.google.com/maps/search/?api=1&query=18.9010368,-98.9820091",18.9010368,-98.982009,"Autopista México - Cuautla, Oaxtepec, Yautepec, Morelos, 62738, México"
+JUAREZ NUM 54 ESQ INDEPENDENCIA,,,,N/A
+CARR A HACIA LA HACIENDA LOS MOLINOS,,,,N/A
+CALLE REFORMA SUR,"https://www.google.com/maps/search/?api=1&query=21.0066759,-102.6174206",21.0066759,-102.61742,"Valle de Guadalupe, Jalisco, 47384, México"
+CALLE GUADLALUPE #62 ESQ CALLE ALCANFORES,,,,N/A
+CAMINO REAL A CUAUTOTOLA,"https://www.google.com/maps/search/?api=1&query=20.068611,-97.7969444",20.068611,-97.796944,"Cuautotola, Amixtlán, Puebla, México"
+CALLE 6 SUR Y 13 ORIENTE,"https://www.google.com/maps/search/?api=1&query=-35.434726,-71.64702919999999",-35.434726,-71.6470292,"Calle 13 Oriente, Paso Moya, Talca, Provincia de Talca, Región del Maule, 3461761, Chile"
+CAMINO REAL 215,"https://www.google.com/maps/search/?api=1&query=-12.09635,-77.03569",-12.09635,-77.0356,"Avenida Víctor Andrés Belaúnde, El Rosario, San Isidro, Lima, Lima Metropolitana, Lima, 15027, Perú"
+CANAL DE VALSEQUILLO,,,,N/A
+LIBRAMIENTO DE TECAMACHALCO A XOCHIMILCO,"https://www.google.com/maps/search/?api=1&query=19.2572314,-99.1029664",19.2572314,-99.102966,"Calle Xaltocan, Xochimilco, Ciudad de México, 16090, México"
+CARRETERA CHICONCUAUTLA-HUAUCHINANGO,"https://www.google.com/maps/search/?api=1&query=20.1569267,-97.9653103",20.1569267,-97.96531,"Capultitla, Xaltepuxtla, Tlaola, Puebla, México"
+CAMINO A TEPIZILA,,,,N/A
+CAMINO A STA CRUZ 1571,,,,N/A
+CALLE VISTA HERMOSA NO. 33 ENTRE PRIVADA MORELOS Y PRIV VISTA HERMOSA,"https://www.google.com/maps/search/?api=1&query=18.6813049,-99.1013498",18.6813049,-99.101349,"Tlaltizapan, Tlaltizapán de Zapata, Morelos, México"
+IGNACIO ZARAGOZA 6 ESQ AVENIDA 2 OTE,,,,N/A
+CARRETERA CAMINO A TEHUACÁN VIEJO ESQUINA CALLE LOS LIMONES COLONIA LA GARAMBULLERA,"https://www.google.com/maps/search/?api=1&query=18.4665063,-97.40038009999999",18.4665063,-97.4003801,"Calle 5 de Mayo, Tehuacán, Puebla, 75700, México"
+"BARRANCA EL CASCABEL DE SAN LORENZO OMETEPEC, BARRIO LA PURÍSIMA.","https://www.google.com/maps/search/?api=1&query=18.8600621,-97.8571959",18.8600621,-97.857195,"Calle La Redonda, San Lorenzo Ometepec, Tochtepec, Puebla, 75600, México"
+CAMINO DEL TERCER ORDEN TETELA- IZUCAR,"https://www.google.com/maps/search/?api=1&query=18.5991249,-98.4677851",18.5991249,-98.467785,"Calle Guadalupe Victoria, Izúcar, Izúcar de Matamoros, Puebla, 74400, México"
+CARRETERA EL EMPALME XALAPA KM 3+100,"https://www.google.com/maps/search/?api=1&query=19.5437751,-96.91018059999999",19.5437751,-96.9101806,"Privada Gobernador Gonzalo Vázquez Vela, El Mirador, Xalapa, Veracruz, 91143, México"
+AUTOPISTA ATLICAYOTL KM 23,"https://www.google.com/maps/search/?api=1&query=18.98376,-98.3166303",18.98376,-98.31663,"Boulevard Vía Atlixcáyotl, Santa Clara Ocoyucan, Ocoyucan, Puebla, 72850, México"
+AVE LIBERTAD NUM 3626 - CIPRES,,,,N/A
+VICENTE GUERRERO 112 ESQUINA MELCHOR OCAMPO COL. MIGUEL HIDALGO DE PINO SUAREZ,"https://www.google.com/maps/search/?api=1&query=19.42438,-99.13293999999999",19.42438,-99.13294,"Plaza Comercial Pino Suárez, Plaza San Lucas, Cuauhtémoc, Ciudad de México, 06080, México"
+DOMICILIO CONOCIDO,,,,N/A
+ELEKTRA 15 - CERRADA DE LA ESTRELLA,"https://www.google.com/maps/search/?api=1&query=19.2215915,-100.1350994",19.2215915,-100.135099,"Ejido San Gaspar, Valle de Bravo, Estado de México, 52100, México"
+CALLE SEDESOL #29 ENTRE 17 Y 24 DE FEBRERO,,,,N/A
+CARRETERA ZIHUATEUTLA - OCOMANTLA,"https://www.google.com/maps/search/?api=1&query=20.2322908,-97.9090557",20.2322908,-97.909055,"Carretera Venustiano Carranza, Ocomantla, Zihuateutla, Puebla, México"
+IGNACIO ALLENDE 12945 ESQ VENUSTIANO CARRANZA,"https://www.google.com/maps/search/?api=1&query=20.1179116,-102.6547355",20.1179116,-102.654735,"Calle Francisco Villa, San Pedro Cahro, Venustiano Carranza, Michoacán, 59160, México"
+CARRETERA A TOTOLA ·2,,,,N/A
+CALLE SAN MIGUEL,"https://www.google.com/maps/search/?api=1&query=36.6236524,-4.4991215",36.6236524,-4.499121,"yogu yogu Frozen Yogurt, 15, Calle San Miguel, Torremolinos, Costa del Sol Occidental, Málaga, Andalucía, 29620, España"
+CALLE UNIVERSIDAD DE VERACRUZ NUM 1628 - U.CHAPINGO,"https://www.google.com/maps/search/?api=1&query=19.173773,-96.1342241",19.173773,-96.134224,"Oxxo, Calzada Simón Bolívar, Ignacio Zaragoza, Municipio de Veracruz, Veracruz, 91919, México"
+CALLE PINO SUAREZ S-N COL. 20 DE NOVIEMBRE,"https://www.google.com/maps/search/?api=1&query=18.9141424,-98.5242909",18.9141424,-98.52429,"Calle Pino Suárez, Atlixco, Puebla, 74363, México"
+CARR SANTA CRUZ ALTURA KM 3,,,,N/A
+CALLE 20 DE NOVIEMBRE S-N,,,,N/A
+PASANDO VIAZ DE TREN DE ZOZUTLA,"https://www.google.com/maps/search/?api=1&query=18.7550081,-97.6520984",18.7550081,-97.652098,"Calle José González Soto, San Miguel Zozutla, Yehualtepec, Puebla, México"
+CALLE BENITO JUAREZ,,,,N/A
+CALLE FRANCISCO ZARABIA SN,"https://www.google.com/maps/search/?api=1&query=16.9871827,-96.7241767",16.9871827,-96.724176,"San Juan Bautista la Raya, Santa Cruz Xoxocotlán, Oaxaca, 71238, México"
+16 DE SEPTIEMBRE --URANGA,,,,N/A
+GUADALUPE VICTORIA --EJIDO,,,,N/A
+CALLE PRINCIPAL ESQ. PORFIRIO DIAZ,,,,N/A
+AUTOPISTA MEX-PUE-7CALZADA IGNACIO ZARAGOZA,"https://www.google.com/maps/search/?api=1&query=19.0412894,-98.20620129999999",19.0412894,-98.2062013,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+DOMICILIO CONOCIDO,,,,N/A
+"CALLE PRINCIPAL S-N, EJIDO PALO GACHO",,,,N/A
+CALLEJON VEGONIA NUM 69 ESQ. CARR A SAN BALTAZAR,"https://www.google.com/maps/search/?api=1&query=20.3731903,-100.9480486",20.3731903,-100.948048,"18, Calle Begonia, Guadalupe, Cortazar, Guanajuato, 38490, México"
+CARRETERA ESTATAL TEHUACAN-TEOTITLAN EN LA CURVA DE GARIBALDI,"https://www.google.com/maps/search/?api=1&query=18.4454334,-97.3791142",18.4454334,-97.379114,"Calle 21 Sur, Tehuacán, Puebla, 75700, México"
+AVENIDA DE LAS HARAS - A TOPAR CON ANTIGUO CAMINO A LAS HARAS,"https://www.google.com/maps/search/?api=1&query=19.0211613,-98.1294554",19.0211613,-98.129455,"Avenida Las Haras, Municipio de Puebla, Puebla, 72365, México"
+CARR NAUTLA 256,"https://www.google.com/maps/search/?api=1&query=20.2066604,-96.7729224",20.2066604,-96.772922,"Calle Allende, Nautla, Veracruz, México"
+QUERETARO 10110 ESQUINA MICHOACAN Y PUEBLA,"https://www.google.com/maps/search/?api=1&query=20.5887932,-100.3898881",20.5887932,-100.389888,"21, Avenida Ignacio Zaragoza, Centro Histórico, Centro, Delegación Centro Histórico, Santiago de Querétaro, Municipio de Querétaro, Querétaro, 76000, México"
+C. BENITO JUAREZ NUM 32 ENTRE BOULEVARD XONACATEPEC Y FCO I MADERO,"https://www.google.com/maps/search/?api=1&query=19.0780178,-98.1113484",19.0780178,-98.111348,"Boulevard Xonacatepec, Municipio de Puebla, Puebla, 72229, México"
+CALLE ALDAMA S-N,"https://www.google.com/maps/search/?api=1&query=20.9103994,-100.7435071",20.9103994,-100.743507,"57, Calle Aldama, Zona Centro, San Miguel de Allende, Guanajuato, 37700, México"
+89 OTE 411 ESQUINA PRIVADA 6 SUR,"https://www.google.com/maps/search/?api=1&query=18.9937576,-98.2179694",18.9937576,-98.217969,"Privada 89 A Oriente, Municipio de Puebla, Puebla, 72470, México"
+REVOLUCION -ACATZINGO,"https://www.google.com/maps/search/?api=1&query=18.9833329,-97.783333",18.9833329,-97.78333,"Calle 6 Oriente, Acatzingo de Hidalgo, Acatzingo, Puebla, 75150, México"
+CALLE INDEPENDENCIA NUM. 19,,,,N/A
+AVENIDA JUAREZ S-N -,,,,N/A
+CARR LA FAMA A SAN SAN MIGUEL ESPEJO,,,,N/A
+"CEDRO 102,","https://www.google.com/maps/search/?api=1&query=19.294476,-99.069502",19.294476,-99.0695,"Calle Cedros, Colonia El Molino Tezonco, Iztapalapa, Ciudad de México, 09940, México"
+CAMINO DE TERRACERIA QUE CONECTA COAPAN Y LA CANTERA,"https://www.google.com/maps/search/?api=1&query=18.4752005,-97.3697182",18.4752005,-97.369718,"Camino al Interior de las Granjas, Tehuacán, Puebla, 75740, México"
+DOMICILIO CONOCIDO DOS RIOS,,,,N/A
+CALLE AGUSTIN ITURBIDE NTE,"https://www.google.com/maps/search/?api=1&query=21.0125082,-102.6152208",21.0125082,-102.61522,"Valle de Guadalupe, Jalisco, 47384, México"
+"CALLE DEL BACHILLERATO, COLONIA LA LOMA",,,,N/A
+"CARRETERA CAXHUACAN A IXTEPEC, LUGAR CONOCIDO SAN CRISTÓBAL","https://www.google.com/maps/search/?api=1&query=16.5611267,-95.0963141",16.5611267,-95.096314,"Ixtepec, Ciudad Ixtepec, Oaxaca, 70110, México"
+"BARRIO DE BARTOLO, MUNICIPIO DE Zacatlán, PUE.","https://www.google.com/maps/search/?api=1&query=19.9440858,-97.95979899999999",19.9440858,-97.959799,"Calle Benito Juárez García, Eloxochitlán (Zacatzingo), Zacatlán, Puebla, 73310, México"
+SAN LUIS POTOSI 10316 - AVENIDA PUEBLA,"https://www.google.com/maps/search/?api=1&query=22.1564699,-100.9855409",22.1564699,-100.98554,"Calle García Diego, Fraccionamiento Tequisquiapan, San Luis Potosí, Municipio de San Luis Potosí, San Luis Potosí, 78250, México"
+PRIV. 4 NORTE ENTRE 4 Y 6 ORIENTE,"https://www.google.com/maps/search/?api=1&query=-33.0175233,-71.5423357",-33.0175233,-71.542335,"6 Oriente, Conjunto Residencial Benidorm, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2520534, Chile"
+CALLE 3 PONIENTE,"https://www.google.com/maps/search/?api=1&query=19.0528412,-98.2170779",19.0528412,-98.217077,"La Porta, Avenida 3 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72090, México"
+CAMINO DE TERRACERÍA EL PARAJE DENOMINADO TLACO CRUZ,,,,N/A
+ACOCOTLA S-N,"https://www.google.com/maps/search/?api=1&query=19.3732556,-98.02330049999999",19.3732556,-98.0233005,"Tocatlán, Tlaxcala, 90460, México"
+AUTOPISTA PUEBLA ORIZABA A LA ALTURA DEL KILÓMETRO 219,"https://www.google.com/maps/search/?api=1&query=18.8504744,-97.1036396",18.8504744,-97.103639,"Jardín de Niños Beatriz Velasco de Alemán, Calle Norte 6, Centro, Orizaba, Veracruz, 94300, México"
+DOMICILIO CONOCIDO,,,,N/A
+LATERAL A PERIFERICO - BOULEVARD CLAVIJERO,"https://www.google.com/maps/search/?api=1&query=19.0246096,-98.1406145",19.0246096,-98.140614,"Boulevard Clavijero, Municipio de Puebla, Puebla, 72365, México"
+"AUTOPISTA VERACRUZ PUEBLA, A LA ALTURA DEL KILÓMETRO 219 CON SENTIDO A PUEBLA","https://www.google.com/maps/search/?api=1&query=19.0414398,-98.2062727",19.0414398,-98.206272,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+CALLE ÁLVARO OBREGÓN Y ABELARDO RODRÍGUEZ,,,,N/A
+"BARRANCA, ENTRADA A FRACCIONAMIENTOIONAMIENTO VALLE DEL SOL","https://www.google.com/maps/search/?api=1&query=-10.7525374,-77.7599218",-10.7525374,-77.759921,"Alaska, Jirón Alfonso Ugarte, Barranca, Lima, Perú"
+CARRETERO DE ATLEQUIZAYAN AL ENTRONQUE HACIA EL MUNICIPIO DE IXTEPEC,"https://www.google.com/maps/search/?api=1&query=20.012966,-97.62392299999999",20.012966,-97.623923,"Calle 16 de Septiembre, Atlequizayan, Puebla, México"
+"BLVR VICENTE SUAREZ:- 19.0415514,-98.1637781",,,,N/A
+CARRETERA 150 TEHUACAN ORIZABA A LA ALTURA DE- CFE-,"https://www.google.com/maps/search/?api=1&query=18.8504744,-97.1036396",18.8504744,-97.103639,"Jardín de Niños Beatriz Velasco de Alemán, Calle Norte 6, Centro, Orizaba, Veracruz, 94300, México"
+143E PTE - 17 Y 19 SUR 1735,,,,N/A
+"TERRENOS DE CULTIVO DEL PARAJE DE LA LUZ, EJIDOS DE SAN MIGUEL XALTEPEC","https://www.google.com/maps/search/?api=1&query=18.8744381,-97.6148214",18.8744381,-97.614821,"Avenida 5 de Mayo, San Miguel Xaltepec, Palmar de Bravo, Puebla, México"
+CAMINO REAL AL BOSQUE ESQ. ALCATRAZ,,,,N/A
+AVENIDA DE LAS TORRES AVENIDA DEL ROBLE,"https://www.google.com/maps/search/?api=1&query=19.051227,-98.1472195",19.051227,-98.147219,"Avenida de las Torres, Municipio de Puebla, Puebla, 72320, México"
+MINA S-N,,,,N/A
+CALLE GONZÁLEZ ORTEGA,,,,N/A
+CALLE ZACAPOAXTLA ESQ Zacatlán,"https://www.google.com/maps/search/?api=1&query=19.9350819,-97.9611534",19.9350819,-97.961153,"Calle Juan C Bonilla, Zacatlán, Puebla, 73310, México"
+"DOMICILIO CONOCIDO, BARRIO DE XILIAPAN",,,,N/A
+TERRENO DE CULTIVO DE LA COLONIA LA LUZ DE LA COMUNIDAD DE JESÚS NAZARENO,,,,N/A
+AUTOPISTA TLAXCO TEJOCOTAL KM 38 + 500,"https://www.google.com/maps/search/?api=1&query=19.61766,-98.1174721",19.61766,-98.117472,"Tlaxco, Tlaxcala, México"
+CAMINO A SAN ANDRES AZUMIATLA DESVIACION A LA IXTLA,"https://www.google.com/maps/search/?api=1&query=18.9456982,-98.2330766",18.9456982,-98.233076,"Calle Santa Cruz de la Ixtla, Municipio de Puebla, Puebla, 72590, México"
+CALLE COL.LA PERLA Y LA JOYA,"https://www.google.com/maps/search/?api=1&query=19.1250925,-104.3411705",19.1250925,-104.34117,"Manzanillo, Colima, 28200, México"
+"ENTRADA A LOS PINOS, COMUNIDAD DE TILAPA","https://www.google.com/maps/search/?api=1&query=14.5044853,-92.1806423",14.5044853,-92.180642,"Los Almendros, La Blanca, San Marcos, Guatemala"
+"CALLE EMILIANO ZAPATA Y CALLE 6 DE JUNIO 19.107037, -98.144538","https://www.google.com/maps/search/?api=1&query=38.7587938,-3.3879935",38.7587938,-3.387993,"Calle del Seis de Junio, Valdepeñas, Ciudad Real, Castilla-La Mancha, 13300, España"
+PRIV YUCATAN NUM 203 - AVENIDA 2 SUR,"https://www.google.com/maps/search/?api=1&query=20.7098786,-89.0943377",20.7098786,-89.094337,"Huhí, Yucatán, México"
+"AHUATEPEC, HUEYAPAN, PUEBLA.","https://www.google.com/maps/search/?api=1&query=19.8825658,-97.4454858",19.8825658,-97.445485,"Palacio Municipal, Avenida Miguel Hidalgo Sur, Hueyapan, Puebla, México"
+BARRANCA PARALELA A LA CALLE VERACRUZ DE LA COMUNIDAD DE SAN SEBASTIÁN VILLANUEVA,"https://www.google.com/maps/search/?api=1&query=-10.7525374,-77.7599218",-10.7525374,-77.759921,"Alaska, Jirón Alfonso Ugarte, Barranca, Lima, Perú"
+CAMINO DE TERRACERÍA ANTES DE LA CAPILLA DEL SEÑOR DE TEJALPA. RUMBO A CARRETERA CUAPIAXTLA- ACATLÁN DE OSORIO,"https://www.google.com/maps/search/?api=1&query=18.2019204,-98.0484434",18.2019204,-98.048443,"Tacos, Avenida Reforma, Acatlán de Osorio, Acatlán, Puebla, México"
+REVOLUCION - 16 DE SEPTIEMBRE E INDEPENDENCIA,,,,N/A
+"19.102384,-98.0718364","https://www.google.com/maps/search/?api=1&query=19.1060775,-98.06973500000001",19.1060775,-98.069735,"Municipio de Puebla, Puebla, México"
+"CALLE JOSÉ MARIA MORELOS ESQUINA CON EL CARRIL, SAN MIGUEL ZOZUTLA","https://www.google.com/maps/search/?api=1&query=18.7582344,-97.6485022",18.7582344,-97.648502,"San Miguel Zozutla, Yehualtepec, Puebla, México"
+CANAL DE SAN APARICIO AVILA CAMACHO,,,,N/A
+CALLE EMILIANO ZAPATA NUM. 2,,,,N/A
+Nicolás Bravo -AVENIDA REVOLUCION E HIDALGO,"https://www.google.com/maps/search/?api=1&query=19.8754826,-98.5715841",19.8754826,-98.571584,"Tepeapulco - Santo Tomás, Bellavista, Tlanalapa, Hidalgo, 43850, México"
+"CARRETERA FEDERAL APROXIMADAMENTE KM-144+500,",,,,N/A
+JOSEFA ORTIZ ENTRE 5 Y 7 SUR,,,,N/A
+"SAN DIEGO ECATEPEC NO, 101","https://www.google.com/maps/search/?api=1&query=19.5521556,-99.0841864",19.5521556,-99.084186,"Calle San Diego, Colonia Tablas del Pozo, Ecatepec de Morelos, Estado de México, 55520, México"
+CAMINO DE TERRACERIA,"https://www.google.com/maps/search/?api=1&query=19.2982965,-98.8704471",19.2982965,-98.870447,"Jardines de San Marcos, San Marcos Huixtoco, Chalco, Estado de México, 56643, México"
+CAMINO REAL A CHOLULA ESQ CON PERIFERICO,"https://www.google.com/maps/search/?api=1&query=19.0486803,-98.2638446",19.0486803,-98.263844,"Calle Antiguo Camino Real a Cholula, Tlaxcalancingo (San Bernardino), San Andrés Cholula, Puebla, 72754, México"
+"COL. EL ARENAL, CAMINO A SAN PEDRO",,,,N/A
+CAMINO A LA RESURRECCIÓN,"https://www.google.com/maps/search/?api=1&query=19.0824102,-98.1353916",19.0824102,-98.135391,"Avenida Resurrección, Municipio de Puebla, Puebla, 72228, México"
+3 SUR ESQUINA SAN FRANSICO,"https://www.google.com/maps/search/?api=1&query=37.7749295,-122.4194155",37.7749295,-122.419415,"Market Street & South Van Ness Avenue, Market Street, Hayes Valley, San Francisco, CAL Fire Northern Region, California, 94102, United States"
+CALLE LA PALMA NUMERO 4,"https://www.google.com/maps/search/?api=1&query=40.4261764,-3.701617",40.4261764,-3.70161,"4, Calle de la Palma, Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28004, España"
+CALLE 5 DE FEBRERO NO. 71,"https://www.google.com/maps/search/?api=1&query=19.4269807,-99.1352182",19.4269807,-99.135218,"Oxxo, Calle 5 de Febrero, Centro Urbano, Cuauhtémoc, Ciudad de México, 06080, México"
+VICENTE GUERRERO 14 ESQ MOCTEZUMA Y LA LUZ,,,,N/A
+CARRETERA ESTATAL AXOCHIAPAN - CHIAUTLA DE TAPIA A LA ALTURA DEL PARAJE DENOMINADO EL BASURERO PERTENECIENTE A LA JUNTA AUXILIAR DE TLANCUALPICAN,"https://www.google.com/maps/search/?api=1&query=18.5036585,-98.75362369999999",18.5036585,-98.7536237,"Calle Galeana, Axochiapan, Morelos, México"
+COMANDANCIA DE CHICHIQUILA,"https://www.google.com/maps/search/?api=1&query=19.1990849,-97.06754389999999",19.1990849,-97.0675439,"Esc. Telesecundaria, Avenida Ignacio Zaragoza, San José, Chichiquila, Puebla, México"
+CALLE 16 DE SEPTIEMBRE ESQUINA 119 OTE,,,,N/A
+CANAL DE VALSEQUILLO,,,,N/A
+PRIVADA LAURELES NUM 798-18 Y 20 PONIENTE,"https://www.google.com/maps/search/?api=1&query=18.4762056,-97.39456349999999",18.4762056,-97.3945635,"IMSS Hospital General de Zona 15 Tehuacán, Avenida José Garci Crespo, Tehuacán, Puebla, 75740, México"
+AVENIDA TLAXCALA Y 7 OTE,,,,N/A
+DOMICILIO CONOCIDO LOCALIDAD XOLANGO,"https://www.google.com/maps/search/?api=1&query=20.2204771,-98.095626",20.2204771,-98.09562,"Huauchinango, Puebla, México"
+INMEIDACIONES DE SAN MIGUEL ESPEJO,"https://www.google.com/maps/search/?api=1&query=19.0956536,-98.0676178",19.0956536,-98.067617,"Calle Manuel Ávila Camacho, Municipio de Puebla, Puebla, México"
+CAMINOS DE TERRACERÍA LA PARTE DE ATRÁS DE GRANJAS CARROL DE MÉXICO,"https://www.google.com/maps/search/?api=1&query=19.5624898,-97.2551124",19.5624898,-97.255112,"Calle Tenochtitlan, Perote, Veracruz, 91270, México"
+CALLE MORELOS NO. 1 COL. CENTRO,"https://www.google.com/maps/search/?api=1&query=19.4323666,-99.1481625",19.4323666,-99.148162,"Módulo Abogadas de Las Mujeres, 20, Avenida Morelos, Colonia Tabacalera, Cuauhtémoc, Ciudad de México, 06030, México"
+CAMINO DE TERRACERÍA A INMEDIACIONES DE SANTIAGO ALSESECA,"https://www.google.com/maps/search/?api=1&query=18.4752005,-97.3697182",18.4752005,-97.369718,"Camino al Interior de las Granjas, Tehuacán, Puebla, 75740, México"
+IDENTRIDAD ESQUINA FEDERALISMO,,,,N/A
+CALLE HIDALGO #33,,,,N/A
+CARR A ALMAZAN,"https://www.google.com/maps/search/?api=1&query=41.5128796,-2.5594214",41.5128796,-2.559421,"SO-P-4076, Tejerizas, Almazán, Soria, Castilla y León, 42211, España"
+LOCALIDAD DENOMINADA CARACOLES,,,,N/A
+CALLE 7 PONIENTE # 51,,,,N/A
+CALZADA OAXACA #3108,"https://www.google.com/maps/search/?api=1&query=16.1499999,-95.58333309999999",16.1499999,-95.5833331,"Santo Domingo Tehuantepec, Oaxaca, 70760, México"
+DOMICILIO CONOCIDO LA PEDRERA TEPEHICAN,"https://www.google.com/maps/search/?api=1&query=19.854704,-97.516939",19.854704,-97.51693,"Carretera Interserrana, Tepehicán, Tatauzoquico, Tlatlauquitepec, Puebla, 73906, México"
+PRIVADA CENTRAL NUM 2-JORGE MURAD,,,,N/A
+AVENIDA DEL PROGRESO 13903-PRIVADA DE LA ABUNDANCIA,"https://www.google.com/maps/search/?api=1&query=18.9658499,-98.24552039999999",18.9658499,-98.2455204,"Calle del Progreso, San Juan Bautista, Municipio de Puebla, Puebla, 72490, México"
+CALLE 102 PTE - LAT. AUT. MEX PUEBLA,"https://www.google.com/maps/search/?api=1&query=19.0686279,-98.1271065",19.0686279,-98.127106,"Calle 16 J, Municipio de Puebla, Puebla, 72229, México"
+AVENIDA MEXICO ESQ 6 NORTE,,,,N/A
+LÍNEA DE PEMEX,"https://www.google.com/maps/search/?api=1&query=17.9562847,-94.7215255",17.9562847,-94.721525,"Linea de Pemex, Jáltipan, Veracruz, 96200, México"
+5 SUR ESQ 3 PONIENTE,,,,N/A
+CALLE TOLTECA.,"https://www.google.com/maps/search/?api=1&query=19.5833703,-98.9282238",19.5833703,-98.928223,"Privada Tlatelolco, Nexquipayac, Atenco, Estado de México, 55885, México"
+LA ZONA ARQUEOLOGICA,,,,N/A
+"CAMINO VIEJO A SAN MATEO, JUNTO A CERRO DEL PEDREGAL","https://www.google.com/maps/search/?api=1&query=18.6833333,-98.4166667",18.6833333,-98.416666,"Tepeojuma, Puebla, México"
+17 SUR ESQ. 31 PTE,,,,N/A
+TRAMO CARRETERO MOLCAXAC - TEPEXI DE RODRIGUEZ KM 28+300,"https://www.google.com/maps/search/?api=1&query=18.5842989,-97.9297331",18.5842989,-97.929733,"Avenida Defensores del 6 de Julio, Tepexi de Rodríguez, Puebla, 74690, México"
+PRIVADA TECALI 1 - CALLE PRINCIPAL,"https://www.google.com/maps/search/?api=1&query=18.9022377,-97.9742086",18.9022377,-97.974208,"Calle 7 Sur, Tecali de Herrera, Puebla, México"
+PROLONGACIÓN DE INDEPENDENCIA COL. NUEVA,,,,N/A
+AVENIDA CAMINO REAL,"https://www.google.com/maps/search/?api=1&query=18.0105181,-66.4894804",18.0105181,-66.48948,"198, Calle Mansión Real, Mansiones de Camino Real, Cintrona, Juana Díaz, Puerto Rico, 00795, United States"
+CALLE 5 MAYO NUMERO 40 ENTRE GUILLERMO PRIETO Y LORETO,"https://www.google.com/maps/search/?api=1&query=-3.7436735,-73.25163260000001",-3.7436735,-73.2516326,"Inkafarma, Jirón Putumayo, Iquitos, Maynas, Loreto, 16001, Perú"
+COSTADO DE LA CARRETERA ACATZINGO A NOPALUCAN KM 9 + 500,"https://www.google.com/maps/search/?api=1&query=19.2169287,-97.82526759999999",19.2169287,-97.8252676,"Calle 5 Norte, Nopalucan de la Granja, Nopalucan, Puebla, 75000, México"
+DOMICILIO CONOCIDO - LOC. PLAN DE AYALA - COL. EL SOMBRERETE,"https://www.google.com/maps/search/?api=1&query=23.6342457,-103.6391657",23.6342457,-103.639165,"Aréchiga del Rebote, Sombrerete, Zacatecas, 99100, México"
+"18.915511, -98.223712","https://www.google.com/maps/search/?api=1&query=18.9057556,-98.2260526",18.9057556,-98.226052,"Calle Colorines, La Paz Tlaxcolpan, Municipio de Puebla, Puebla, 72960, México"
+"ARCO SUR,","https://www.google.com/maps/search/?api=1&query=41.6262886,-0.9571761",41.6262886,-0.957176,"Avenida 21 de Junio de 2009, Arcosur, Zaragoza, Aragón, 50022, España"
+PRIV 15 SUR ESQ DIAGONAL MEXICO,"https://www.google.com/maps/search/?api=1&query=19.0478425,-98.4376987",19.0478425,-98.437698,"Diagonal México, San Buenaventura Nealtican, Nealtican, Puebla, 74190, México"
+LIBERTAD NO. 2 ESQ. ADOLFO LÓPEZ MATEOS,,,,N/A
+CAMINO A PUEBLO NUEVO,,,,N/A
+CALLE PORTUGAL NUM 40,"https://www.google.com/maps/search/?api=1&query=38.34275909999999,-0.4905376",38.3427591,-0.490537,"Alejandrita Von Láser, calle París, Eixample, Alacant / Alicante, l'Alacantí, Alacant / Alicante, Comunitat Valenciana, 03003, España"
+GRAN AVENIDA - PEDRERA,,,,N/A
+AVENIDA ALVARO OBREGON N.18,"https://www.google.com/maps/search/?api=1&query=18.9133595,-97.8205809",18.9133595,-97.82058,"Avenida Álvaro Obregón Norte, Cuapiaxtla de Madero, Puebla, México"
+CALLE IGNACIO ZARAGOZA Y GUADALUPE VICTORIA,,,,N/A
+PRIVADA DE LA 39 OTE Y 24 SUR,"https://www.google.com/maps/search/?api=1&query=19.0210079,-98.1920116",19.0210079,-98.192011,"Prolongación de la 24 Sur, Municipio de Puebla, Puebla, 72540, México"
+CALLE ALLENDE NUMERO 74,"https://www.google.com/maps/search/?api=1&query=17.0658631,-96.7239839",17.0658631,-96.723983,"Inter@ctive, Plaza de Santo Domingo, Oaxaca de Juárez, Oaxaca, 68000, México"
+4 NTE-48 OTE,"https://www.google.com/maps/search/?api=1&query=-36.396822,-72.39807510000001",-36.396822,-72.3980751,"Avenida Nuestra Señora del Rosario, Los Copihues, La Posta, Ninhue, Provincia de Itata, Región de Ñuble, Chile"
+123 PTE ESQ BENITO JUAREZ,,,,N/A
+MATAMOROS NUM 2,"https://www.google.com/maps/search/?api=1&query=25.838425,-97.434643",25.838425,-97.43464,"Calle Norte 2, Matamoros, Municipio de Matamoros, Tamaulipas, 87566, México"
+SANTA MARÍA ACERRADERO,"https://www.google.com/maps/search/?api=1&query=34.9530337,-120.4357191",34.9530337,-120.435719,"101, East Main Street, Santa Maria, Santa Barbara County, CAL Fire Southern Region, California, 93454, United States"
+AVENIDA 5 DE MAYO,"https://www.google.com/maps/search/?api=1&query=18.5484909,-97.4938607",18.5484909,-97.49386,"Calle 5 de Mayo, Magdalena Cuayucatepec, Tehuacán, Puebla, México"
+ARTICULO 18 ENTRE CALLE 3 SUR Y CONSTITUYENTES,,,,N/A
+EN LA PRESIDENCIA AUXILIAR,,,,N/A
+REVOLUCION NUM 402 ESQ,"https://www.google.com/maps/search/?api=1&query=21.6340707,-102.9802708",21.6340707,-102.98027,"Calle Revolución Norte, Jalpa, Zacatecas, 99600, México"
+CALLE 44 SUR Y TLATLAUQUITEPE,"https://www.google.com/maps/search/?api=1&query=19.8546482,-97.49494709999999",19.8546482,-97.4949471,"Avenida Revolución, Tlatlauquitepec, Puebla, 73900, México"
+123 PTE ESQ 16 SEP,,,,N/A
+REVOLUCION NUM 13 ESQ MANUEL SANTIBAÑES Y MIGUEL HIDALGO,,,,N/A
+6 OTE Y 5 DE MAYO,,,,N/A
+AVENIDA 2 PONIENTE,"https://www.google.com/maps/search/?api=1&query=19.054527,-98.2161151",19.054527,-98.216115,"11, Calle 25 Norte, Municipio de Puebla, Puebla, 72160, México"
+CALLE PRINCIPAL S-N,,,,N/A
+"CARRETERA FEDERAL VIA XALAPA - 18.9730221,-97.7572696",,,,N/A
+CARRETERA FEDERAL TLAXCO TEJOCOTAL,"https://www.google.com/maps/search/?api=1&query=19.61766,-98.1174721",19.61766,-98.117472,"Tlaxco, Tlaxcala, México"
+CARR FED A SAN JUAN AMECAC,"https://www.google.com/maps/search/?api=1&query=18.8346959,-98.6015907",18.8346959,-98.60159,"San Lucas Tulcingo, Tochimilco, Puebla, México"
+4 PTE ESQ. 3 NTE,,,,N/A
+CALLE 1RA DE MAYO,"https://www.google.com/maps/search/?api=1&query=20.2973233,-102.5465607",20.2973233,-102.54656,"Calle Primero de Mayo, La Barca, Jalisco, 47910, México"
+UNIDAD HAB SAN JUAN ED. 202 DEPTO 4,"https://www.google.com/maps/search/?api=1&query=-31.5351074,-68.5385941",-31.5351074,-68.538594,"Rotary CLub, Avenida Libertador General San Martín, Barrio Urquiza, Concepción, San Juan, Capital, San Juan, J5400ARL, Argentina"
+CARRETERA A CALPAN KM 5 DESTINO CALPAN,"https://www.google.com/maps/search/?api=1&query=19.1051497,-98.443445",19.1051497,-98.44344,"Camino Viejo a Huejotzingo, Pueblo Nuevo, San Andrés Calpan, Calpan, Puebla, México"
+SONORA NORTE # 702 ENTRE QUERETARO Y JALISCO,"https://www.google.com/maps/search/?api=1&query=20.6595382,-103.3494376",20.6595382,-103.349437,"Concha Acústica Agua Azul, Calzada Independencia Sur, Mexicaltzingo, Guadalajara, Jalisco, 44180, México"
+43 ORIENTE 2404-8 - 24 SUR,,,,N/A
+CALLE 3 NORTE 108 ENTRE AVENIDA NACIONAL O 2 PTE,,,,N/A
+SATELITE MAGISTERIAL 5009,"https://www.google.com/maps/search/?api=1&query=19.0455095,-98.15638949999999",19.0455095,-98.1563895,"Calle Leibniz, Municipio de Puebla, Puebla, 72320, México"
+AVENIDA INDEPENDENCIA,"https://www.google.com/maps/search/?api=1&query=-34.6184573,-58.3975232",-34.6184573,-58.397523,"801, Pasco, San Cristóbal, Buenos Aires, Comuna 3, Ciudad Autónoma de Buenos Aires, 1222, Argentina"
+CALLE HIDALGO 132,,,,N/A
+AVENIDACARRETERA Y AVENIDA JUAREZ,,,,N/A
+FCO I MADERO 1912 ESQ 16 DE SEPTIEMBRE,,,,N/A
+"CALLE GUADALUPE NUM.10, SAN FRANCISCO CUAUTLANCINGO",,,,N/A
+"19.051167, -98.050611","https://www.google.com/maps/search/?api=1&query=19.0511085,-98.0505872",19.0511085,-98.050587,"Calle 12 Poniente, Amozoc de Mota, Amozoc, Puebla, 72980, México"
+"CARRETERA A CANO KILOMETRO 5-19.1174697,-98.1400652",,,,N/A
+CALLE CALVARIO S-N ESQ BUENOS AIRES,"https://www.google.com/maps/search/?api=1&query=-34.6036844,-58.3815591",-34.6036844,-58.381559,"397, Carlos Pellegrini, Microcentro, San Nicolás, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, C1036AAR, Argentina"
+8 A PONIWENTE Y 43 NORTE,,,,N/A
+"CALLE 5 DE MAYO ENTRE 6 Y 8 PONIENTE, BARRIO DEL ALTO","https://www.google.com/maps/search/?api=1&query=19.0463706,-98.19439039999999",19.0463706,-98.1943904,"Centro Histórico de Puebla, Ciclovía 9 Sur, Municipio de Puebla, Puebla, 72240, México"
+"CAMINO A LOS PINOS S-N BARRIO SAN JOSÉ, GRANJA PORCINA LUIS FERNANDO",,,,N/A
+TRAMO DE CHICHIQUILA A VISTA HERMOSA,"https://www.google.com/maps/search/?api=1&query=19.1990849,-97.06754389999999",19.1990849,-97.0675439,"Esc. Telesecundaria, Avenida Ignacio Zaragoza, San José, Chichiquila, Puebla, México"
+KILOMETRO 17+800,,,,N/A
+CARRETERA A SAN PABLO DEL MONTE ESQ. CALLE LOS PINOS,"https://www.google.com/maps/search/?api=1&query=19.1315845,-98.16117030000001",19.1315845,-98.1611703,"Calle Reforma, San Pablo del Monte, Tlaxcala, México"
+SAN CLAUDIO - 22 SUR,"https://www.google.com/maps/search/?api=1&query=19.0029,-98.19838999999999",19.0029,-98.19839,"Facultad de Derecho y Ciencias Sociales BUAP, S/N, Avenida San Claudio, Fraccionamiento la aldea, Municipio de Puebla, Puebla, 72570, México"
+VLB VALSEQUILLO Y 24 SUR,"https://www.google.com/maps/search/?api=1&query=18.9202776,-98.13444439999999",18.9202776,-98.1344444,"Avenida Presa Manuel Ávila Camacho, Municipio de Puebla, Puebla, México"
+MPIO LIBRE ENTRE AVENIDA NACIONAL Y 11 SUR,"https://www.google.com/maps/search/?api=1&query=19.0037782,-98.2347248",19.0037782,-98.234724,"Oxxo, Boulevard Municipio Libre, Municipio de Puebla, Puebla, 72470, México"
+N. HEROES NUM 1816 ENTRE OYAMEL Y JACARANDAS,,,,N/A
+CALLE 16 DE SEPTIEMBRE ESQUINA 103 OTE,"https://www.google.com/maps/search/?api=1&query=18.9922988,-98.22740689999999",18.9922988,-98.2274069,"Avenida 16 de Septiembre, Loma Encantada, Municipio de Puebla, Puebla, 72470, México"
+BOUELVARD PUEBLA NUM 40 ESQ AVENIDA CAMPESTRE,"https://www.google.com/maps/search/?api=1&query=19.0414398,-98.2062727",19.0414398,-98.206272,"Avenida 15 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+AVENIDA 25 PONIENTE - C. 3 SUR,,,,N/A
+MIGUEL HIDALGO MZ 1 LOTE 17 - CALLE INSURGENTES,,,,N/A
+28 DE OCT Y 10 MAYO,,,,N/A
+"CALLE PLUTARCO ELÍAS CALLES #2906, COLONIA VALLE SUR","https://www.google.com/maps/search/?api=1&query=18.8967482,-98.4454653",18.8967482,-98.445465,"Boulevard Francisco Plutarco Elías Campuzano Calles, Atlixco, Puebla, 74260, México"
+SANTIAGO TENANGO,"https://www.google.com/maps/search/?api=1&query=17.3259244,-97.0055026",17.3259244,-97.005502,"Calle Independencia, Santiago Tenango, Oaxaca, México"
+CALLEJON AGUSTIN A CACHO SIN NUMERO,"https://www.google.com/maps/search/?api=1&query=18.460819,-97.3906823",18.460819,-97.390682,"Farmacia el pastillero, Calle 3 Oriente, Tehuacán, Puebla, 75700, México"
+CALLE PRINCIPAL SIN NUMERO CENTRO PLAZA COMERCIAL,,,,N/A
+SAN MATIAS LOTE 5 MZ 6 ESQ SANTA LUCIA,,,,N/A
+CALLE JUSTO SIERRA,"https://www.google.com/maps/search/?api=1&query=20.677664,-103.3813213",20.677664,-103.381321,"98, Calle Victoriano Salado Álvarez, Arcos Vallarta, Guadalajara, Jalisco, 44130, México"
+CALLE 5 DE MAYO S-N COL. EL CARMEN,,,,N/A
+AVILA CAMACHO 5412 ESQ LAZARO CARDENAS Y DEFENSORES DE LA REPUBLICA,"https://www.google.com/maps/search/?api=1&query=19.4748896,-99.1435398",19.4748896,-99.143539,"Calle Norte 5, Colonia Defensores de la República, Gustavo A. Madero, Ciudad de México, 07780, México"
+5 DE FEBRERO OTE,"https://www.google.com/maps/search/?api=1&query=20.5125108,-100.9924967",20.5125108,-100.992496,"39, Calle 5 de Febrero, Zona Centro, Villagrán, Guanajuato, 38260, México"
+AVENIDA HIDALGO S-N,,,,N/A
+CALLE PRINCIPAL CASA COLOR ROSA DE DOS NIVELES,,,,N/A
+15 DE MAYO ESQUINA BLLVD CARMEN SERDAN,,,,N/A
+GUADALUPE VICTORIA ESQ INDEPENDENCIA,,,,N/A
+BOULEVARD VALSEQUILLO,"https://www.google.com/maps/search/?api=1&query=18.9895779,-98.2006444",18.9895779,-98.200644,"Boulevard Valsequillo, Universitaria, Municipio de Puebla, Puebla, 72592, México"
+"CLARA CÓRDOVA MZ 12 LT3,","https://www.google.com/maps/search/?api=1&query=19.5989389,-99.28202329999999",19.5989389,-99.2820233,"Calle Gabriel García, Nicolás Romero, Estado de México, 54476, México"
+SANTA PATRICIA PINOS MANZANA 25 LOTE 15 ESQ AVENIDA SAN FRANCISCO,"https://www.google.com/maps/search/?api=1&query=19.3283033,-98.8754647",19.3283033,-98.875464,"Calle Miguel Hidalgo Manzana 25 Lote 15, Ixtapaluca, Estado de México, 56536, México"
+CARRETERA HACIA SAN PEDRO IXTLA,"https://www.google.com/maps/search/?api=1&query=17.0627408,-96.81600499999999",17.0627408,-96.816005,"San Pedro Ixtlahuaca, Oaxaca, 71246, México"
+CALLE ALDAMA 515 ESQUINA CALLE CHIAPAS,"https://www.google.com/maps/search/?api=1&query=16.7569318,-93.12923529999999",16.7569318,-93.1292353,"Brazzeiro Churasqueria do Brasil, Circunvalación Pichucalco, Tuxtla Gutiérrez, Chiapas, 29030, México"
+4TA. DE VICTORIA,"https://www.google.com/maps/search/?api=1&query=-26.145411,28.68205",-26.145411,28.682,"13, 8th Street, Victor Khanye Ward 6, Delmas, Victor Khanye Local Municipality, Nkangala, Mpumalanga, 2210, South Africa"
+SAN DIEGO CHALMA,"https://www.google.com/maps/search/?api=1&query=18.4360818,-97.365161",18.4360818,-97.36516,"Privada Chalma, San Diego Chalma, Tehuacán, Puebla, 75790, México"
+15 DE MAYO - MADERO,"https://www.google.com/maps/search/?api=1&query=22.3055409,-97.8469949",22.3055409,-97.846994,"Calle Río Nazas, Ciudad Madero, Tamaulipas, 89314, México"
+"CALLE ZARAGOZA, CALLE EMILIO CARRANSA, SAN ANTONIO SOLEDAD","https://www.google.com/maps/search/?api=1&query=19.971045,-96.6118001",19.971045,-96.6118,"Calle Independencia, Emilio Carranza, Vega de Alatorre, Veracruz, 93980, México"
+34 SUR - PRIVADA VENUS,,,,N/A
+COMUNIDAD DE SANTA CRUZ TEXMALAQUILLA,"https://www.google.com/maps/search/?api=1&query=18.9441904,-97.2872348",18.9441904,-97.287234,"Camino al Gran Telescopio Milimétrico, Santa Cruz Texmalaquilla, Atzitzintla, Puebla, 75540, México"
+DOMICILIO CONOCIDO,,,,N/A
+"CALLE MARIANO MATAMOROS SIN NÚMERO, SECCIÓN QUINTA, ACTIPAN DE MORELOS","https://www.google.com/maps/search/?api=1&query=18.9568304,-97.80014059999999",18.9568304,-97.8001406,"Calle Ayuntamiento, Actipan de Morelos (Santa María Actipan), Acatzingo, Puebla, 75150, México"
+EMILIANO ZAPATA - JOSEFA ORTIZ DE DOMINGUEZ,,,,N/A
+OSA MAYOR- BOULEVARD ATLIXCAYOTLY BOULEVARD DEL NIÑO POBLANO,"https://www.google.com/maps/search/?api=1&query=18.98376,-98.3166303",18.98376,-98.31663,"Boulevard Vía Atlixcáyotl, Santa Clara Ocoyucan, Ocoyucan, Puebla, 72850, México"
+BARRIO DE QUECHOLAC,"https://www.google.com/maps/search/?api=1&query=18.9554497,-97.65752370000001",18.9554497,-97.6575237,"Calle 4 Norte, Quecholac, Puebla, 75460, México"
+DOMICILIO CONOCIDO,,,,N/A
+ACLLE 5 ORIENTE NÚMERO 106 ESQUINA 2 SUR Y 20 DE NOVIEMBRE,"https://www.google.com/maps/search/?api=1&query=19.0424796,-98.1983372",19.0424796,-98.198337,"Catedral Basílica de Puebla, Avenida 5 Poniente, Centro Histórico de Puebla, Municipio de Puebla, Puebla, 72000, México"
+C. 44 NTE ESQUINA MIGUEL HIDALGO,,,,N/A
+CORREGIDORA,"https://www.google.com/maps/search/?api=1&query=20.5334645,-100.4462861",20.5334645,-100.446286,"Puerta de Piedra, El Pueblito, Corregidora, Querétaro, 76925, México"
+"2DA. PRIVADA DE LOS PINOS SIN NÚMERO COLONIA CENTRO, ALTEPEXI PUEBLA.","https://www.google.com/maps/search/?api=1&query=18.3678072,-97.3003604",18.3678072,-97.30036,"Calle Insurgentes Poniente, Altepexi, Puebla, 75910, México"
+"CALLE 2 PONIENTE ESQUINA CON 7 NORTE, BARRIO SAN ANTONIO","https://www.google.com/maps/search/?api=1&query=-33.0160004,-71.5527821",-33.0160004,-71.552782,"Bakery Lynch, 7 Norte, Población Vergara, Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, 2520112, Chile"
+REFORMA,,,,N/A
+SEGUNDA PRIVADA D 2 NORTE NUMERO 32 - 2 NORTE Y LA VIA,"https://www.google.com/maps/search/?api=1&query=19.5539108,-96.9570043",19.5539108,-96.957004,"Calle Segunda Privada de División del Norte, Lomas de Chapultepec, Xalapa, Veracruz, 91230, México"
+CALLE 29 PTE NUM 1208 ENTRE 12 SUR Y 27,"https://www.google.com/maps/search/?api=1&query=18.442169,-97.40500879999999",18.442169,-97.4050088,"Avenida 29 Poniente, Tehuacán, Puebla, 75857, México"
+CALLE JORGE MURAD Y CENTRAL DE SAN ANGEL,,,,N/A
+TLANEPANTLA,"https://www.google.com/maps/search/?api=1&query=19.5345279,-99.19073639999999",19.5345279,-99.1907364,"Avenida Mario Colín, Tlalnepantla, Tlalnepantla de Baz, Estado de México, 54150, México"
+M. HIDALGO 108,,,,N/A
+11 SUR FRENTE AL NUMERAL 14709-MARGARITAS,,,,N/A
+PRIV. DE SAN DIEGO BUENAVISTA 6 - BOULEVARD CANOA,"https://www.google.com/maps/search/?api=1&query=19.1020282,-98.16357839999999",19.1020282,-98.1635784,"GRAL. OFICIAL EMPERADOR CUAUHTEMOC, Privada San Diego Buena Vista, Municipio de Puebla, Puebla, 72228, México"
+114 PTE &,,,,N/A
+CARRETERA SAN JUAN ATENCO - COYOTEPEC,"https://www.google.com/maps/search/?api=1&query=19.7837622,-99.2147837",19.7837622,-99.214783,"Privada San Juan, Coyotepec, Estado de México, 54660, México"
+RIO XOCHIAC ESQ CAPULINES,"https://www.google.com/maps/search/?api=1&query=19.21148297021736,-98.39994379311919",19.21148297,-98.39994379,"San Martín Texmelucan, Puebla, 74128, México"
+RIO HONDO S-N,,,,N/A
+16 DE SEPT - BOULEVARD LAS TORRES,,,,N/A
+PVDA GASEODUCTO N. 6-4 - AVENIDA GASEODUCTO Y INDUSTRIA,,,,N/A
+"AVENIDA DE LA REFORMA, ESQ 37 NORTE","https://www.google.com/maps/search/?api=1&query=19.0584813,-98.2235391",19.0584813,-98.223539,"Walmart, Avenida Reforma, Municipio de Puebla, Puebla, 72140, México"
+"GUADALUPE VICTORIA, LA MAQUILA DEL CENTRO DE XALTIPAN","https://www.google.com/maps/search/?api=1&query=19.7660055,-97.33199859999999",19.7660055,-97.3319986,"Calle Juan Francisco Lucas, La Ciénega, Xaltipan, Xiutetelco, Puebla, 73974, México"
+AVENIDA JUAREZ Y 11 OTE,,,,N/A
+ENTRADA DE CHIPILO,"https://www.google.com/maps/search/?api=1&query=19.0088471,-98.33348509999999",19.0088471,-98.3334851,"Chipilo de Francisco Javier Mina (Chipilo), San Gregorio Atzompa, Puebla, 74320, México"
+AVENIDA 16 DE SEPT-3 SUR -PRIV MIGUEL DE LA MADRID,,,,N/A
+CALLE DEL RIO,,,,N/A
+"19.093485,-98.2500150","https://www.google.com/maps/search/?api=1&query=19.0936133,-98.2499737",19.0936133,-98.249973,"Avenida Independencia, Sanctorum, Cuautlancingo, Puebla, 72730, México"

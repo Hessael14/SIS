@@ -1,0 +1,670 @@
+---
+title: "SIS Analisis"
+author: "Hessael López García"
+date: "2023-06-14"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+library(utf8)
+library(fdth)
+library(knitr)
+#install_github("ccolonescu/PoEdata")
+#tinytex::install_tinytex()
+library(latexpdf)
+library(xtable)
+library(shiny)
+library(bookdown)
+#library(PoEdata)
+library(printr)
+library(stargazer)
+library(rmarkdown)
+library(readxl)
+library(dplyr)
+library(tidyverse)
+library(ggplot2)
+library(devtools)
+library(broom)
+library(tseries)
+library(lmtest)
+library(AER)
+library(readr)
+library(tidyr)
+```
+
+```{r}
+url <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Incidencia Secretariado/2023.xlsx"
+Info2023 <- read_xlsx(url)
+url2 <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Incidencia Secretariado/2022.xlsx"
+Info2022 <- read_xlsx(url)
+url <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Incidencia Secretariado/2021.xlsx"
+Info2021 <- read_xlsx(url)
+url <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Incidencia Secretariado/2020.xlsx"
+Info2020 <- read_xlsx(url)
+url <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Incidencia Secretariado/2019.xlsx"
+Info2019 <- read_xlsx(url)
+url <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Incidencia Secretariado/2018.xlsx"
+Info2018 <- read_xlsx(url)
+url <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Incidencia Secretariado/2017.xlsx"
+Info2017 <- read_xlsx(url)
+url <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Incidencia Secretariado/2016.xlsx"
+Info2016 <- read_xlsx(url)
+url <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Incidencia Secretariado/2015.xlsx"
+Info2015 <- read_xlsx(url)
+```
+```{r}
+colnames(Info2023)
+```
+
+```{r}
+
+```
+
+
+```{r}
+Info_Puebla2015 <- Info2015 %>% filter(Entidad == "Puebla")
+Data2015 <- Info_Puebla2015 %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+ID2015 <- as.data.frame(Data2015)
+write.csv(ID2015,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/2015.csv", row.names=TRUE)
+
+###
+Info_Puebla2016 <- Info2016%>% filter(Entidad == "Puebla") 
+Data2016 <- Info_Puebla2016 %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+IncidenciaDelictiva <- as.data.frame(Data2016)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/2016.csv", row.names=TRUE)
+###
+Info_Puebla2017 <- Info2017%>% filter(Entidad == "Puebla") 
+Data2017 <- Info_Puebla2017 %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+IncidenciaDelictiva <- as.data.frame(Data2017)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/2017.csv", row.names=TRUE)
+###
+
+Info_Puebla2018 <- Info2018%>% filter(Entidad == "Puebla") 
+Data2018 <- Info_Puebla2018 %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+IncidenciaDelictiva <- as.data.frame(Data2018)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/2018.csv", row.names=TRUE)
+
+###
+
+Info_Puebla2019 <- Info2019%>% filter(Entidad == "Puebla") 
+Data2019 <- Info_Puebla2019 %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+IncidenciaDelictiva <- as.data.frame(Data2019)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/2019.csv", row.names=TRUE)
+
+###
+
+Info_Puebla2020 <- Info2020%>% filter(Entidad == "Puebla") 
+Data2020 <- Info_Puebla2020 %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+IncidenciaDelictiva <- as.data.frame(Data2020)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/2020.csv", row.names=TRUE)
+
+####
+
+Info_Puebla2021 <- Info2021%>% filter(Entidad == "Puebla") 
+Data2021 <- Info_Puebla2021 %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+IncidenciaDelictiva <- as.data.frame(Data2021)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/2021.csv", row.names=TRUE)
+
+###
+
+Info_Puebla2022 <- Info2022%>% filter(Entidad == "Puebla") 
+Data2022 <- Info_Puebla2022 %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+IncidenciaDelictiva <- as.data.frame(Data2022)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/2022.csv", row.names=TRUE)
+
+###
+
+Info_Puebla2023 <- Info2023%>% filter(Entidad == "Puebla") 
+Data2023 <- Info_Puebla2023 %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+IncidenciaDelictiva <- as.data.frame(Data2023)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/2023.csv", row.names=TRUE)
+```
+
+
+
+```{r}
+data <- bind_rows(Info_Puebla2015,Info_Puebla2016,Info_Puebla2017,Info_Puebla2018,Info_Puebla2019,Info_Puebla2020,Info_Puebla2021,Info_Puebla2022,Info_Puebla2023)
+IncidenciaDelictiva <- as.data.frame(data)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/IncidenciaDelictiva.csv", row.names=TRUE)
+
+```
+
+Conversión unida
+
+```{r}
+typeof(data)
+
+Dataconvert <- data %>% pivot_longer(cols = 10:21,
+                      names_to = "Mes",
+                      values_to = "Cantidad")
+IncidenciaDelictiva <- as.data.frame(Dataconvert)
+write.csv(IncidenciaDelictiva,"C:/Users/52771/Documents/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/IncidenciaDelictiva.csv", row.names=TRUE)
+```
+```{r}
+
+
+```
+
+## REPORTES DE ATENCIÓN
+
+Comenzamos leyendo cada hoja del excel de Octubre 2021 hasta el más reciente
+
+```{r}
+library(readxl)
+
+Octubre2021 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Octubre 2021",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric"))
+
+Noviembre2021 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Noviembre 2021",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric"))
+Enero2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Enero",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric"))
+
+Febrero2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Febrero",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric"))
+
+Marzo2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Marzo",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Abril2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+    sheet = "Abril",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric"))
+
+Mayo2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Mayo",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Junio2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Junio",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Julio2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Julio",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Agosto2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Agosto",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Septiembre2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+    sheet = "Septiembre",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Octubre2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Octubre",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Noviembre2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Noviembre",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Diciembre2022 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Diciembre",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric","numeric"))
+
+Enero2023 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Enero2023",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Febrero2023 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Febrero2023",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Marzo2023 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Marzo2023",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric"))
+
+Abril2023 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Abril2023",col_types =c( "numeric","date","text","numeric"))
+
+Mayo2023 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", 
+     sheet = "Mayo2023",col_types =c( "numeric","date","text","numeric"))
+Junio2023 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", sheet = "Junio2023",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric",
+        "numeric", "numeric", "numeric",
+        "numeric", "numeric"))
+Julio2023 <- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Reporte Semanal Oct2021-Actualidad.xlsx", sheet = "Julio2023",col_types = c("numeric", 
+        "date", "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric", 
+        "numeric", "numeric", "numeric",
+        "numeric", "numeric", "numeric",
+        "numeric", "numeric"))
+```
+Abril y Mayo del 2023 ya está en el formato que buscamos. 
+Pasaremos a unir desde Octubre 2021 hasta marzo 2023 para proceder a transformar la data.
+```{r}
+Oct_Abr <- bind_rows(Octubre2021,Noviembre2021,Enero2022,Febrero2022,Marzo2022,Abril2022,Mayo2022,Junio2022,Julio2022,Agosto2022,Septiembre2022,Octubre2022,Noviembre2022,Diciembre2022,Enero2023,Febrero2023,Marzo2023,Junio2023,Julio2023)
+```
+```{r}
+Oc_ab <- Oct_Abr %>% pivot_longer(cols = 3:38,
+                      names_to = "Tipo de Servicio",
+                      values_to = "Atenciones")
+```
+Unimos Oct-marzo con abril y mayo 2023
+
+```{r}
+ReportesAtencion <- bind_rows(Oc_ab,Abril2023,Mayo2023)
+#Creamos csv para exportar a github
+
+write.csv(ReportesAtencion,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/ReportesAtencion",row.names=TRUE)
+```
+
+# Violencia 2020-2022
+
+
+```{r}
+p1<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "1", col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text"))
+
+p2<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "2", col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text","text"))
+p3<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "3", col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text","text","text"))
+p4<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "4", col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text","text","text"))
+p5<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "5", col_types = c("numeric", 
+         "date", "text", "text", "text", "text", 
+         "text", "text", "text","text"))
+```
+Unimos hojas
+```{r}
+Violencia2020_2022 <- bind_rows(p1,p2,p3,p4,p5)
+write.csv(Violencia2020_2022,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia2020-2022", row.names = TRUE)
+```
+
+## Analizar violencia 2020-2022 
+```{r}
+Violencia3 <- Violencia2020_2022 %>% filter(Tipo == "VIOLACIÓN"|Tipo == "VIOLACION"| Tipo== "PRIVACIÓN DE LA LIBERTAD"| Tipo == "HOMICIDIO")
+sort(unique(Violencia3$Colonia))
+write_excel_csv(Violencia3,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/HSV")
+
+
+```
+
+```{r}
+hjunio <- 2023
+```
+
+# Violencia 2020-2022
+
+
+```{r}
+p1<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "1", col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text"))
+
+p2<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "2", col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text","text"))
+p3<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "3", col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text","text","text"))
+p4<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "4", col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text","text","text"))
+p5<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "5", col_types = c("numeric", 
+         "date", "text", "text", "text", "text", 
+         "text", "text", "text","text"))
+```
+Unimos hojas
+```{r}
+Violencia2020_2022 <- bind_rows(p1,p2,p3,p4,p5)
+write.csv(Violencia2020_2022,"C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia2020-2022", row.names = TRUE)
+```
+
+## Analizar violencia 2020-2022 última versión
+
+```{r}
+p_1<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "1" ,col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text","text","text","text","text",
+         "text","text","text","text","text"))
+
+p_2<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "4", col_types = c("numeric", 
+         "date", "text", "text", "text", "date", 
+         "text", "text", "text","text","text","text","text","text","text","text","text","text","text","text","text","text","text","text","text"))
+p_5<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022.xlsx", 
+     sheet = "5", col_types = c("numeric", 
+       "date", "text", "text", "text", "text", 
+       "text", "text", "text","text","text","text","text","text","text","text","text","text","text"))
+
+```
+```{r}
+head(p_5)
+```
+
+Unimos hojas
+```{r}
+Violencia20202022actualizado <- bind_rows(p_1,p_2,p_5)
+```
+
+
+```{r}
+write.csv(Violencia101,"C:/Users/52771/Documents/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia2020-2022", row.names = TRUE)
+```
+```{r}
+p_1<- read_excel("C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Incidencia Delictiva/Bases de datos/Violencia_Contra_las_Mujeres_2020-2022_TRES DELITOS.xlsx", 
+     sheet = "Violación")
+ncol(p_1)
+```
+```{r}
+
+Violencia101 =subset (Violencia20202022actualizado, select= c(1,2,3,4,5,6,7,8,9,19,20,10,11,12,13,14,15,16,17,18,21,22,23,24,25))
+colnames(Violencia101)
+```
+
+
+## Base de datos de atención. : Centro Integral a Mujeres
+
+```{r}
+h <- c("Octubre2021","Noviembre2021","Diciembre2021","Enero2022","Febrero2022","Marzo2022","Abril2022","Mayo2022","Junio2022","Julio2022","Agosto2022","Septiembre2022","Octubre2022","Noviembre2022","Diciembre2022","Enero2023","Febrero2023","Marzo2023","Abril2023","Mayo2023","Junio2023","Julio2023")
+path <- "C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Libro1.xlsx"
+rp1<- read_excel(path, sheet = h[1]) 
+rp2<- read_excel(path, sheet = h[2])
+rp3<- read_excel(path, sheet = h[3])
+rp4<- read_excel(path, sheet = h[4])
+rp5<- read_excel(path, sheet = h[5])
+rp6<- read_excel(path, sheet = h[6])
+rp7<- read_excel(path, sheet = h[7])
+rp8<- read_excel(path, sheet = h[8])
+rp9<- read_excel(path, sheet = h[9])
+rp10<- read_excel(path, sheet = h[10])
+rp11<- read_excel(path, sheet = h[11])
+rp12<- read_excel(path, sheet = h[12])
+rp13<- read_excel(path, sheet = h[13])
+rp14<- read_excel(path, sheet = h[14])
+rp15<- read_excel(path, sheet = h[15])
+rp16<- read_excel(path, sheet = h[16])#
+rp17<- read_excel(path, sheet = h[17])
+rp18<- read_excel(path, sheet = h[18])
+rp19<- read_excel(path, sheet = h[19])
+rp20<- read_excel(path, sheet = h[20])
+rp21<- read_excel(path, sheet = h[21])
+rp22<- read_excel(path, sheet = h[22])
+
+```
+Cambiamos formato a la columna de fechas
+
+```{r}
+rp1$Fecha <- as.numeric(rp1$Fecha)
+rp2$Fecha <- as.numeric(rp2$Fecha)
+rp3$Fecha <- as.numeric(rp3$Fecha)
+rp4$Fecha <- as.numeric(rp4$Fecha)
+rp5$Fecha <- as.numeric(rp5$Fecha)
+rp6$Fecha <- as.numeric(rp6$Fecha)
+rp7$Fecha <- as.numeric(rp7$Fecha)
+rp8$Fecha <- as.numeric(rp8$Fecha)
+rp9$Fecha <- as.numeric(rp9$Fecha)
+rp10$Fecha <- as.numeric(rp10$Fecha)
+rp11$Fecha <- as.numeric(rp11$Fecha)
+rp12$Fecha <- as.numeric(rp12$Fecha)
+rp13$Fecha <- as.numeric(rp13$Fecha)
+rp14$Fecha <- as.numeric(rp14$Fecha)
+rp15$Fecha <- as.numeric(rp15$Fecha)
+rp16$Fecha <- as.numeric(rp16$Fecha)
+colnames(rp17[1]) <- "Fecha"
+rp17$Fecha <- as.numeric(rp17$Fecha)#No tiene nombre de fecha
+rp18$Fecha <- as.numeric(rp18$Fecha)
+#rp18$Fecha <- as.numeric(rp18$Fecha)
+rp19$Fecha <- as.numeric(rp19$Fecha)
+rp20$Fecha <- as.numeric(rp20$Fecha)
+rp21$Fecha <- as.numeric(rp21$Fecha)
+rp22$Fecha <- as.numeric(rp22$Fecha)
+```
+
+Seleccionamos las columnas que usaremos y sus nombres
+```{r}
+nuevo <- rp1 %>% select(nombres)
+```
+
+
+```{r}
+columnas <- c(1,2,5,7,10,27,28,38,41,47,51,58,59,60,61,62,63,64,65,68,76,89,94,106,109,121,127,142,149)
+#for (x in colnames(datas[x])){
+rpnombres <- rp1 %>% select(all_of(columnas))
+nombres <- c()
+for (i in 1:29){
+  nombres[i] <-(colnames(rpnombres[i]))
+ 
+
+} #}
+nombres
+```
+Seleccionamos esas columnas de cada data frame
+```{r}
+rp1<- read_excel(path, sheet = h[1]) %>% select(all_of(nombres))
+rp2<- read_excel(path, sheet = h[2]) %>% select(all_of(nombres))
+rp3<- read_excel(path, sheet = h[3]) %>% select(all_of(nombres))
+rp4<- read_excel(path, sheet = h[4]) %>% select(all_of(nombres))
+rp5<- read_excel(path, sheet = h[5]) %>% select(all_of(nombres))
+rp6<- read_excel(path, sheet = h[6]) %>% select(all_of(nombres))
+rp7<- read_excel(path, sheet = h[7]) %>% select(all_of(nombres))
+rp8<- read_excel(path, sheet = h[8]) %>% select(all_of(nombres))
+rp9<- read_excel(path, sheet = h[9]) %>% select(all_of(nombres))
+rp10<- read_excel(path, sheet = h[10]) %>% select(all_of(nombres))
+rp11<- read_excel(path, sheet = h[11]) %>% select(all_of(nombres))
+rp12<- read_excel(path, sheet = h[12]) %>% select(all_of(nombres))
+rp13<- read_excel(path, sheet = h[13]) %>% select(all_of(nombres))
+rp14<- read_excel(path, sheet = h[14]) %>% select(all_of(nombres))
+rp15<- read_excel(path, sheet = h[15]) %>% select(all_of(nombres))
+rp16<- read_excel(path, sheet = h[16]) %>% select(all_of(nombres))
+rp17<- read_excel(path, sheet = h[17]) %>% select(all_of(nombres))
+rp18<- read_excel(path, sheet = h[18]) %>% select(all_of(nombres))
+rp19<- read_excel(path, sheet = h[19]) %>% select(all_of(nombres))
+rp20<- read_excel(path, sheet = h[20]) %>% select(all_of(nombres))
+rp21<- read_excel(path, sheet = h[21]) %>% select(all_of(nombres))
+rp22<- read_excel(path, sheet = h[22]) %>% select(any_of(nombres))
+```
+sacamos el tipo de variable que es
+
+```{r}
+for(i in colnames(rp22)){
+  
+  print(class(rp22[i))
+}
+```
+
+```{r}
+nomrp22 <- c()
+for (i in colnames(rp22)){
+
+  nomrp22[i] <- (colnames(rp22[i]))
+}
+
+```
+
+
+```{r}
+for (i in 1:22){
+ nam <- paste("rp", i, sep = "")
+ nom <- paste("rpe",i,sep = "")
+ nam %>% select(nombres)
+}
+
+```
+
+```{r}
+library(vctrs)
+yaaaa <- rbind(rp1,rp2,rp3,rp4,rp5,rp6,rp7,rp8,rp9,rp10,rp11,rp12,rp13,rp14,rp15,rp16,rp17,rp18,rp19,rp20,rp21,rp22)
+yaaaa[setdiff(names(rp22),names(yaaaa))] <- NA
+rbind(yaaaa,rp22)
+```
+cambiamos tipo de variable
+```{r}
+for (i in colnames(rp22)){
+  class(i) ="character"
+  
+}
+```
+
+
+```{r}
+vctrs::vec_rbind(yaaaa,rp22, vctrs::df_ptype2())
+df_ptype2(yaaaa,rp22)
+           
+```
+
+
+```{r}
+view(repat_oct2021)
+```
+
+```{r}
+write.csv(yaaaa, file ="C:/Users/52771/OneDrive - Benemérita Universidad Autónoma de Puebla/Análisis de Datos Primavera 2023/projects/SIS/SIS-Geo/Git Analisis/Reportes de atencion/Bases de datos/Atencion", row.names = TRUE) 
+```
+
